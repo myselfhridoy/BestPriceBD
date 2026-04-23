@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "productName": "Foster Clark's Corn Flour 400gm (Tin)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66827b5ae605f3fd35f16d06_Foster-Clarks-Corn-Flour400gm-Tin_1.webp",
+    "unit": "400 gm",
+    "shwapno": {
+        "shwapnoProductId": "65efef04ae4f247aa6ee7c07",
+        "multiplyProductPrice": 1
+  },
+  "chaldal": {
+    "chaldalCategories": "102",
+    "chaldalObjectID": "3448",
+    "multiplyProductPrice": 1
+  },
+  "meenabazar": {
+    "meenabazarProductId": "6279",
+    "multiplyProductPrice": 1
+  }
+ },
+ {
+    "id": 2,
+    "productName": "Foster Clark's Corn Flour 400gm (Packet)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa95b5115075f231ecc916_Foster-Clarks-Corn-Flour-400gm-Packet_1.webp",
+    "unit": "400 gm",
+    "shwapno": {
+        "shwapnoProductId": "65efef04ae4f247aa6ee7c04",
+        "multiplyProductPrice": 1
+  },
+  "chaldal": {
+    "chaldalCategories": "102",
+    "chaldalObjectID": "8726",
+    "multiplyProductPrice": 1
+  },
+  "meenabazar": {
+    "meenabazarProductId": "6280",
+    "multiplyProductPrice": 1
+  }
+ },
+{
+    "id": 3,
+    "productName": "ACI Pure Atta 2kg",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa94d8115075f231ec4f8d_ACI-Pure-Atta-2kg_1.webp",
+    "unit": "2kg",
+    "shwapno": {
+        "shwapnoProductId": "65efed5b4029080802d03943",
+        "multiplyProductPrice": 1
+  },
+  "chaldal": {
+    "chaldalCategories": "103",
+    "chaldalObjectID": "2119",
+    "multiplyProductPrice": 1
+  },
+  "meenabazar": {
+    "meenabazarProductId": "4389",
+    "multiplyProductPrice": 1
+  }
+ }
+]

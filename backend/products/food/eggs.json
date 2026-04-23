@@ -1,0 +1,27 @@
+[
+ {
+    "id": 1,
+    "productName": "Egg Loose",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6605329955503b55855d83ae_Egg-Loose_1.webp",
+    "unit": "12 pcs",
+    "shwapno": {
+        "shwapnoProductId": "65effb7bae4f247aa6eeae01",
+        "multiplyProductPrice": 12
+  },
+  "chaldal": {
+    "chaldalCategories": "61",
+    "chaldalObjectID": "4248",
+    "multiplyProductPrice": 1
+  },
+  "meenabazar": {
+    "meenabazarProductId": "15988",
+    "multiplyProductPrice": 12
+  },
+  "createdAt": {
+    "$date": "2026-04-21T19:55:28.013Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-21T19:55:28.013Z"
+  }
+ }
+]
