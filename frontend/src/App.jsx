@@ -424,7 +424,7 @@ function CartDrawer({ open, cartItems, utilities, onClose, onRemoveItem, onClear
   )
 }
 
-function DockNavigation({ onHome, onOpenCategory, onOpenCart, onOpenSearch }) {
+function DockNavigation({ onHome, onOpenCategory, onOpenCart, onOpenSearch, activeItem, cartCount = 0 }) {
   const handleHomeClick = () => {
     if (typeof onHome === 'function') {
       onHome()
@@ -434,8 +434,11 @@ function DockNavigation({ onHome, onOpenCategory, onOpenCart, onOpenSearch }) {
   }
   
   return (
-    <div className="dock dock-lg fixed bottom-0 z-40 border-t border-slate-700 bg-slate-900/95 backdrop-blur-md md:hidden">
-      <button onClick={handleHomeClick}>
+    <div
+      className="dock dock-lg fixed bottom-0 left-0 right-0 z-40 grid w-full grid-cols-4 items-center justify-items-center border-t border-slate-700 bg-slate-900/95 backdrop-blur-md md:!hidden"
+      style={{ paddingBottom: 'max(env(safe-area-inset-bottom), 0px)' }}
+    >
+      <button className={activeItem === 'home' ? 'dock-active' : ''} onClick={handleHomeClick}>
         <svg className="size-[1.2em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
           <g fill="currentColor" strokeLinejoin="miter" strokeLinecap="butt">
             <polyline points="1 11 12 2 23 11" fill="none" stroke="currentColor" strokeMiterlimit="10" strokeWidth="2" />
@@ -446,7 +449,7 @@ function DockNavigation({ onHome, onOpenCategory, onOpenCart, onOpenSearch }) {
         <span className="dock-label">Home</span>
       </button>
 
-      <button onClick={onOpenCategory}>
+      <button className={activeItem === 'category' ? 'dock-active' : ''} onClick={onOpenCategory}>
         <svg className="size-[1.2em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
           <rect x="3" y="3" width="7" height="7" />
           <rect x="14" y="3" width="7" height="7" />
@@ -456,14 +459,14 @@ function DockNavigation({ onHome, onOpenCategory, onOpenCart, onOpenSearch }) {
         <span className="dock-label">Category</span>
       </button>
 
-      <button onClick={onOpenCart}>
+      <button className={activeItem === 'cart' ? 'dock-active' : ''} onClick={onOpenCart}>
         <svg className="size-[1.2em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
           <path strokeLinecap="round" strokeLinejoin="round" d="M3 3h2l1 5m0 0h13l-1.5 7h-10.5m-1-7h14m-12 11a1 1 0 100 2 1 1 0 000-2zm9 0a1 1 0 100 2 1 1 0 000-2" />
         </svg>
-        <span className="dock-label">Cart</span>
+        <span className="dock-label">Cart{cartCount > 0 ? ` (${cartCount})` : ''}</span>
       </button>
 
-      <button className="dock-active" onClick={onOpenSearch}>
+      <button className={activeItem === 'search' ? 'dock-active' : ''} onClick={onOpenSearch}>
         <svg className="size-[1.2em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
           <path strokeLinecap="round" strokeLinejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
         </svg>
@@ -485,6 +488,7 @@ function App() {
   const [detailsLoading, setDetailsLoading] = useState(false)
   const [detailsError, setDetailsError] = useState('')
   const [detailsCache, setDetailsCache] = useState({})
+  const [showMobileDock, setShowMobileDock] = useState(false)
   const [groupVisibleCounts, setGroupVisibleCounts] = useState({})
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState('')
@@ -533,11 +537,30 @@ function App() {
 
   const isSubcategoryListView = Boolean(selectedView)
   const isSearchPage = activePage === 'search'
+  const dockActiveItem = cartOpen
+    ? 'cart'
+    : menuOpen
+      ? 'category'
+      : (searchOpen || isSearchPage)
+        ? 'search'
+        : 'home'
 
   useEffect(() => {
     if (!searchOpen) return
     searchInputRef.current?.focus()
   }, [searchOpen])
+
+  useEffect(() => {
+    const mediaQuery = window.matchMedia('(max-width: 767px) and (pointer: coarse)')
+    const updateDockVisibility = () => setShowMobileDock(mediaQuery.matches)
+
+    updateDockVisibility()
+    mediaQuery.addEventListener('change', updateDockVisibility)
+
+    return () => {
+      mediaQuery.removeEventListener('change', updateDockVisibility)
+    }
+  }, [])
 
   useEffect(() => {
     try {
@@ -793,7 +816,7 @@ function App() {
       </div>
 
       {/* Header - DaisyUI Navbar */}
-      <header className="navbar sticky top-0 z-20 border-b border-slate-700 bg-slate-900 shadow-lg">
+      <header className="navbar fixed left-0 right-0 top-0 z-30 border-b border-slate-700 bg-slate-900/95 shadow-lg backdrop-blur-md">
         {/* Navbar Start - Shwapno style mega dropdown */}
         <div ref={menuRef} className="navbar-start relative">
           <button
@@ -908,7 +931,7 @@ function App() {
         </div>
       </header>
 
-      <main ref={contentRef} className="relative z-10 mx-auto max-w-6xl space-y-6 px-4 pt-6 pb-24 md:px-6 md:pt-8 md:pb-10">
+      <main ref={contentRef} className="relative z-10 mx-auto max-w-6xl space-y-6 px-4 pt-24 pb-24 md:px-6 md:pt-28 md:pb-10">
 
         {searchOpen ? (
           <section className="rounded-xl border border-primary/40 bg-slate-900/90 p-3 shadow-lg sm:p-4">
@@ -1021,46 +1044,58 @@ function App() {
       </main>
 
       {/* Footer */}
-      <footer className="relative z-10 border-t border-slate-700 bg-slate-900 py-8">
+      <footer className="relative z-10 border-t border-slate-700 bg-gradient-to-b from-slate-900 to-slate-950 py-8">
         <div className="mx-auto max-w-6xl px-4 md:px-6">
-          <div className="grid gap-8 sm:grid-cols-2 md:grid-cols-3 mb-8">
-            <div className="space-y-2">
-              <h4 className="font-bold text-base-content">সেরা দাম</h4>
-              <p className="text-sm text-base-content/70">Smart shopping starts here. Compare prices instantly.</p>
+          <div className="rounded-2xl border border-slate-700/70 bg-slate-900/70 p-4 sm:p-6">
+            <div className="flex flex-col gap-6 sm:flex-row sm:items-center sm:justify-between">
+              <div className="space-y-1">
+                <h4 className="text-lg font-black text-base-content">সেরা দাম</h4>
+                <p className="text-sm text-base-content/70">Compare smarter. Buy cheaper.</p>
+              </div>
+
+              <div className="grid grid-cols-3 gap-2 text-center sm:max-w-sm sm:flex-1">
+                <div className="rounded-lg border border-slate-700 bg-slate-800/70 p-2">
+                  <p className="text-[10px] uppercase tracking-wide text-base-content/60">Stores</p>
+                  <p className="text-sm font-bold text-primary">3+</p>
+                </div>
+                <div className="rounded-lg border border-slate-700 bg-slate-800/70 p-2">
+                  <p className="text-[10px] uppercase tracking-wide text-base-content/60">Live Compare</p>
+                  <p className="text-sm font-bold text-secondary">Yes</p>
+                </div>
+                <div className="rounded-lg border border-slate-700 bg-slate-800/70 p-2">
+                  <p className="text-[10px] uppercase tracking-wide text-base-content/60">Savings</p>
+                  <p className="text-sm font-bold text-success">Tracked</p>
+                </div>
+              </div>
             </div>
-            <div className="space-y-2">
-              <h4 className="font-bold text-base-content">Coverage</h4>
-              <ul className="text-sm space-y-1 text-base-content/70">
-                <li>✓ Shwapno</li>
-                <li>✓ Chaldal</li>
-              </ul>
+
+            <div className="mt-5 flex flex-col gap-2 border-t border-slate-700 pt-4 text-xs text-base-content/60 sm:flex-row sm:items-center sm:justify-between">
+              <p>© 2026 সেরা দাম. All rights reserved.</p>
+              <p>Built for smarter grocery decisions.</p>
             </div>
-            <div className="space-y-2">
-              <h4 className="font-bold text-base-content">Made with ❤️</h4>
-              <p className="text-sm text-base-content/70">By Hridoy</p>
-            </div>
-          </div>
-          <div className="border-t border-slate-700 pt-6 text-center text-xs text-base-content/50">
-            <p>© 2026 সেরা দাম. All rights reserved.</p>
           </div>
         </div>
       </footer>
 
       {/* Dock Navigation */}
-      <DockNavigation
-        onHome={handleGoHome}
-        onOpenCategory={() => {
-          setActivePage('home')
-          setSearchOpen(false)
-          setMenuOpen(true)
-          setSelectedView(null)
-        }}
-        onOpenCart={() => setCartOpen(true)}
-        onOpenSearch={() => {
-          setSearchOpen(true)
-          setMenuOpen(false)
-        }}
-      />
+      {showMobileDock ? (
+        <DockNavigation
+          onHome={handleGoHome}
+          activeItem={dockActiveItem}
+          cartCount={cartItems.length}
+          onOpenCategory={() => {
+            setActivePage('home')
+            setSearchOpen(false)
+            setMenuOpen(true)
+            setSelectedView(null)
+          }}
+          onOpenCart={() => setCartOpen(true)}
+          onOpenSearch={() => {
+            setSearchOpen(true)
+            setMenuOpen(false)
+          }}
+        />
+      ) : null}
 
       <CartDrawer
         open={cartOpen}
