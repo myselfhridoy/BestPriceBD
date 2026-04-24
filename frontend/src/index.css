@@ -11,6 +11,14 @@ body,
   overflow-x: hidden;
   overscroll-behavior-x: none;
   overscroll-behavior-y: none;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+html::-webkit-scrollbar,
+body::-webkit-scrollbar,
+#root::-webkit-scrollbar {
+  display: none;
 }
 
 body {
