@@ -1,0 +1,862 @@
+[
+  {
+    "productName": "Pringles Cheesy Cheese Chips 134gm Malaysia",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9731115075f231ecd1f4_Pringles-Cheesy-Cheese-Chips-134gm-Malaysia_1.png",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff7064029080802d1357f",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Mister Potato Original Chips 100gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6655ae790e5834e013de54ec_Mister-Potato-Original-Chips-100gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6655aa1c112c66696f320807",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Bombay Sweets Chanachur 500(±)50gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa966fd61902ef2307b01b_Bombay-Sweets-Chanachur-50050gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff427ae4f247aa6ee9b6c",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Bombay Sweets Bombay Mix Chanachur 300gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9728115075f231ecd168_Bombay-Sweets-Bombay-Mix-Chanachur-300gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff7024029080802d1352e",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Bombay Sweets Dalmoth Chanchur 150(±)50gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa961ad61902ef23078c65_Bombay-Sweets-Dalmoth-Chanachur-20050gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff1dcae4f247aa6ee94f5",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Bombay Sweets Chanachur 150gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa961ad61902ef23078c5d_Bombay-Sweets-Chanachur-150gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff1dcae4f247aa6ee94ef",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Bombay Sweets Alooz Bhujia 28(±)4gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9769115075f231ecd490_Bombay-Sweets-Aloo-Bhujia-25gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff7204029080802d13786",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Mr.Twist Tasty & Crispy Potato Chips 56gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9754d61902ef2307bba4_Mr-Twist-Tasty-Crispy-Potato-Chips-56gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff7294029080802d13834",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Bombay Sweets Alooz Spanish Tomato 22(±)3gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa965fd61902ef2307a30d_Bombay-Sweets-Alooz-Spanish-Tomato-228gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff417ae4f247aa6ee99fe",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Bombay Sweets Ring Chips Hot Tomato 25(±)3gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9727115075f231ecd160_Bombay-Sweets-Ring-Chips-Hot-Tomato-153gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff7014029080802d13528",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Bombay Sweets N.Chips Chutney&Lime 28(±)4gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9726115075f231ecd158_Bombay-Sweets-Nachoz-Chips-Chutney-Lime-355gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff7014029080802d13522",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Bombay Sweets Pasta Shells Chaat Chips 18(±)2gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa96a9d61902ef2307b4c7_Bombay-Sweets-Pasta-Shells-Chaat-Chips-222gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff5834029080802d12d2e",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Ruchi BBQ Chanachur 500gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa96a7d61902ef2307b4b7_Ruchi-BBQ-Chanachur-500gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff5824029080802d12d1c",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Ruchi Jhal Chanachur 500gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9716115075f231ecd0a0_Ruchi-Jhal-Chanachur-500gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff5af4029080802d130c1",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Ruchi Premium Mix Chanachur 200gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9720115075f231ecd110_Ruchi-Premium-Mix-Chanachur-200gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff5b34029080802d1311e",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Ruchi Bbq Chanachur 350(±)50gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9652d61902ef230797be_Ruchi-Bbq-Chanachur-35050gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff412ae4f247aa6ee9989",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Ruchi Chananchur Hot 350(±50)gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9610d61902ef23078bf1_Ruchi-Chananchur-Hot-35050gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff1d8ae4f247aa6ee949b",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Ruchi Chanachur Premium Mix 100gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa96c1d61902ef2307b5ef_Ruchi-Chanachur-Premium-Mix-100gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff5904029080802d12e36",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Ruchi BBQ Chanachur 150gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9674d61902ef2307b1bf_Ruchi-BBQ-Chanachur-150gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff42aae4f247aa6ee9b99",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Ruchi Hot Chanachur 150gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9679d61902ef2307b22f_Ruchi-Hot-Chanachur-150gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff42dae4f247aa6ee9bc6",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Ruchi Potato Crackers BBQ Chips 25(±)3gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa96a8d61902ef2307b4bb_Ruchi-Potato-Crackers-BBQ-Chips-253gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff5824029080802d12d1f",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Azad Pan Ruchi Premium 100gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66963bed414c61225be9c501_Azad-Pan-Ruchi-Premium-100gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "668f61ee5e6816d77d9f4bc0",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Shwapno Jhal Chanachur 350gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69c8f6ad001399005d411fa0_Shwapno-Jhal-Chanachur-350gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff5a34029080802d12fc2",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pran Spicy Chanachur 300(±)20gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa96c6d61902ef2307b627_Pran-Spicy-Chanachur-30020gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff5924029080802d12e63",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pran Hot Chanachur 150(±)15gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66641680f96348184fde4524_Pran-Hot-Chanachur-15015gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff1d8ae4f247aa6ee949e",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pran Potato Cracker 14(±)1gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa961fd61902ef23078c9e_Pran-Potato-Cracker-15gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff1deae4f247aa6ee9522",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "ACI Fun Chanachur Hot & Spicy 300gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa961dd61902ef23078c89_ACI-Fun-Chanachur-Hot-Spicy-300gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff1ddae4f247aa6ee9510",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Lays American Style Cream & Onion Chips 40(±)3gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa974cd61902ef2307b77b_Lays-American-Style-Cream-Onion-Chips-61-5gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff7254029080802d137e6",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Lays Thai Style Spicy Chicken Chips 40(±)3gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa974cd61902ef2307b783_Lays-Thai-Style-Spicy-Chicken-Chips-61-5gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff7254029080802d137ec",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Lays Spanish Tomato Tango Chips 40(±)3gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa974cd61902ef2307b77f_Lays-Spanish-Tomato-Tango-Chips-61-5gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff7254029080802d137e9",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Lays American Style Cream & Onion Chips 22(±)1gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa974dd61902ef2307b78b_Lays-American-Style-Cream-Onion-Chips-30-5gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff7264029080802d137f2",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Lays Spanish Tomato Tango Chips 22(±)1gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa974dd61902ef2307b78f_Lays-Spanish-Tomato-Tango-Chips-30-5gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff7264029080802d137f5",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Shaad Kurmure Bar-B-Q Chanachur 200gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/667a38f74c0e9f51146e7bcf_Shaad-Kurmure-Bar-B-Q-Chanachur-300gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff70c4029080802d135fd",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Shaad Kurmure Hot & Spicy Jhal Chanachur 200gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/68f60964974218ccf6c62f56_Shaad-Kurmure-Hot-Spicy-Jhal-Chanachur-200gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff1deae4f247aa6ee9528",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Sun Chips Tomato Tango 75(±)5gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9640d61902ef23078e2e_Sun-Chips-Tomato-Tango-80gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff40aae4f247aa6ee98e1",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Sun Chips Mix Masala 75(±)5gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9641d61902ef23078e3a_Sun-Chips-Mix-Masala-80gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff40aae4f247aa6ee98ea",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Sun Chips Mix Masala 35(±)3gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9641d61902ef23078e36_Sun-Chips-Mix-Masala-38gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff40aae4f247aa6ee98e7",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Sun Chips Tomato Tango 35(±)3gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa963cd61902ef23078e02_Sun-Chips-Tomato-Tango-38gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff409ae4f247aa6ee98c0",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Kurkure American Style Cream & Onion Chips 60(±)10gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6728a2e83a11aefc405ceb6e_Kurkure-American-Style-Cream-Onion-Chips-805gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff5874029080802d12d79",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Kurkure Masala Munch Crackers 60(±)10gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa967ad61902ef2307b247_Kurkure-Masala-Munch-Crackers-805gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff42dae4f247aa6ee9bcf",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Kurkure Spicy Chicken Crackers 60(±)10gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa971e115075f231ecd0f8_Kurkure-Spicy-Chicken-Crackers-805gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff5b24029080802d1310c",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Kurkure Chilli Chatka Crackers 60(±)10gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa967ad61902ef2307b23f_Kurkure-Chilli-Chatka-Crackers-805gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff42dae4f247aa6ee9bcc",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Kurkure Cream & Onion Chips 31(±)6gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa96a7d61902ef2307b4af_Kurkure-American-Style-Cream-Onion-Chips-403gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff5824029080802d12d16",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Kurkure Chilli Chatka Crackers 31(±)6gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa966ed61902ef2307afb5_Kurkure-Chilli-Chatka-Crackers-403gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff427ae4f247aa6ee9b69",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Kurkure Masala Munch Crackers 31(±)6gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9679d61902ef2307b227_Kurkure-Masala-Munch-Crackers-403gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff42cae4f247aa6ee9bc0",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Kurkure Spicy Chicken 31(±)6gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa971e115075f231ecd0fc_Kurkure-Spicy-Chicken-Crackers-403gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff5b24029080802d1310f",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Haiko Pasta Chips 70gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9620d61902ef23078caa_Haiko-Pasta-Chips-70gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff1dfae4f247aa6ee952b",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Poppers Corn Coconut Crackers 25(±)5gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6728a2cd3a11aefc405cd487_Poppers-Corn-Coconut-Crackers-255gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff425ae4f247aa6ee9b3c",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Poppers Choco Ring Crackers Chips 30gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66641682f96348184fde4538_Poppers-Choco-Ring-Crackers-Chips-30gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff57f4029080802d12cd7",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Detos Nacho Cheese Chips 30gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa975c115075f231ecd404_Detos-Nacho-Cheese-Chips-30gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff71a4029080802d1370e",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Mister Potato Hot & Spicy Chips 100gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6728a27e3a11aefc405c8d01_Mister-Potato-Hot-Spicy-Chips-100gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "66bc74347a5d2440b69df2ad",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pringles Original Chips 149gm United States",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6728a28b3a11aefc405c9936_Pringles-Original-Chips-149gm-United-States_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "66bc74377a5d2440b69e03b9",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Petra Fleiv Bar-B-Q Potato Chips 100gm Thailand",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6728a4963a11aefc405e7d62_Petra-Fleiv-Bar-B-Q-Potato-Chips-100gm-Thailand_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "66bc743d7a5d2440b69e2424",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Lays Spanish Tomato Tango Chips 60(±)3gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6728a4b53a11aefc405e9c94_Lays-Spanish-Tomato-Tango-Chips-9517gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "66bc743e7a5d2440b69e25f8",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Zeros Chips Onion 14(±)1gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69529e7cc276531e00946240_Pran-Zeros-Chips-15gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67596350f8767effe31b29f5",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Bombay Sweets Naga Jhal Chanachur 300gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69529e0cc276531e00944aa2_Bombay-Sweets-Naga-Jhal-Chanachur-300gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "675e8fbb4366b500bf69bf8c",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "SUN Chips Mix Masala 20gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69529db1c276531e00943848_SUN-Chips-Mix-Masala-20gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "675e8fbf4366b500bf69dbbf",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Bombay S.Alooz C.Sour&Onion Chips 20(±)2gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69526630d83abe02899525ff_Bombay-S-Alooz-C-SourOnion-Chips-202gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "675e8fc04366b500bf69e5a8",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Petra Fleiv Original Potato Chips 100gm Thailand",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69529e59846ae6a8d8573dc3_Petra-Fleiv-Original-Potato-Chips-100gm-Thailand_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "676264319d04787c56454a8b",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "ACI Fun Chanachur Hot & Spicy 45(±)5gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6853e4140c1fa0ca8bae8c37_ACI-Fun-Chanachur-Hot-Spicy-455gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68218da71335e3aea731ccdf",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "ACI Fun Fried Peas 12gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68218de31335e3aea731f730",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pran Hot Chanachur 300(±)25gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69529da4c276531e009435fc_Pran-Hot-Chanachur-30025gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "683438fe6519fd7191dc13df",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pringles BBQ Chips 158gm United States",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6898411acf64b17a887c8c1c",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Thai Choice Pandan Tapioca Pearls 300gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6898411ecf64b17a887c8def",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Mister Potato BBQ Chips 100gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68984122cf64b17a887c8e7d",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Lays Magic Masala 37gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69526650d83abe0289952e75_Lays-Magic-Masala-37gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68984124cf64b17a887c8f04",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Lays Magic Masala 23gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68984125cf64b17a887c8f25",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Bombay Kornots Chips 50gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68984127cf64b17a887c8fc6",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Bombay S.Alooz C.Charcoal Waves BBQ20(±)2gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69529e2fc276531e00945324_Bombay-S-Alooz-C-Charcoal-Waves-BBQ202gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68984128cf64b17a887c8fee",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Lays American Style Cream & Onion Chips 60(±)3gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69529e89c276531e00946348_Lays-American-Style-Cream-Onion-Chips-603gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68984129cf64b17a887c904b",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Alooz Himalayan Pink Salt Chips 20(±)5gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6898412bcf64b17a887c90e8",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Ifad Pillow Tangy BBQ Chips 36gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69529eb0846ae6a8d8574815_Ifad-Pillow-Tangy-BBQ-Chips-36gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6898412ccf64b17a887c9110",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Kurkure Cream & Onion Chips 25gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69529ee2c276531e009473db_Kurkure-Cream-Onion-Chips-25gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68984131cf64b17a887c9233",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Kurkure Chilli Chatka Chips 25gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69529edfc276531e00947392_Kurkure-Chilli-Chatka-Chips-25gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68984131cf64b17a887c926d",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Kurkure Naughty Tomato Chips 25gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69529ee4c276531e00947402_Kurkure-Naughty-Tomato-Chips-25gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68984134cf64b17a887c931c",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Haque Tarzan Chips 20gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68984136cf64b17a887c93c9",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pusti Happy Time Chanachur BBQ 110gm (Buy2 Get1 Jl.Cur.Free)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "695cb832512100b63bd84a56",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Lays Magic Masala Chips 57gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69c8f6d8001399005d4126ca_Lays-Magic-Masala-Chips-57gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6965fecb716b1456871be413",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Lays American Style Cream & Onion Chips 16gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c3850dd96c7c8a3e686471",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Bombay Sweets Naga Jhal Chanachur 150gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c3852ad96c7c8a3e68d4e2",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Lays Magic Masala Chips 16gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c3852ed96c7c8a3e68dfcf",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Sun Tomato Tango Chips 20gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c38532d96c7c8a3e68e94a",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Sun Garlic & Chilli Chips 20gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c3853bd96c7c8a3e690cd9",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Lays Spanish Tomato Tango Chips 16gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c38552d96c7c8a3e696d4d",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Paragon Chanachur 200(±)75gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c385cfd96c7c8a3e6c0450",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Paragon Chanachur 130gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c38606d96c7c8a3e6cd59e",
+      "multiplyProductPrice": 1
+    }
+  }
+]

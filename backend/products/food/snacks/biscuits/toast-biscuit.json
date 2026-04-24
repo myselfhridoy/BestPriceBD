@@ -1,0 +1,302 @@
+[
+  {
+    "productName": "Ifad Muri Toast 350gm + P.T. 350gm  (Save 25 tk)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/680e5f475462ec5a2b78ac7c_Ifad-Muri-Toast-350gm-P-T-350gm-Save-25-tk_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "66825f0e5f4f66ade1b51f35",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Ifad Plaine Toast Biscuit 350gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa975a115075f231ecd3e8_Ifad-Plaine-Toast-Biscuit-350gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff7194029080802d136f9",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Ifad Stick Toast Biscuit 300gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa975a115075f231ecd3ec_Ifad-Stick-Toast-Biscuit-300gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff7194029080802d136fc",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pusti Happy Time Plain Toast Biscuit 250gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa974a115075f231ecd308_Pusti-Happy-Time-Plain-Toast-Biscuit-250gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff7114029080802d13663",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pusti Happy Time Sweet Toast Biscuit 250gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6853e11e33549f984edca09f_Pusti-Happy-Time-Sweet-Toast-Biscuit-250gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "66825ef65f4f66ade1b50a57",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Olympic Premium Toast Biscuit 185gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9736115075f231ecd228_Olympic-Premium-Toast-Biscuit-185gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff7084029080802d135a9",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Olympic Daily Toast 210gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6853e12033549f984edca0c7_Olympic-Daily-Toast-210gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "66825f105f4f66ade1b51f6a",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Dekko Sweet Toast Biscuits 300(±)12gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa96dbd61902ef2307b723_Dekko-Sweet-Toast-Biscuits-30012gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff59c4029080802d12f2f",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Dekko Special Toast Biscuits 185gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9666d61902ef2307a8e4_Dekko-Special-Toast-Biscuits-26020gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff59c4029080802d12f32",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Shwapno Plain Toast 350gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "66825f115f4f66ade1b51f8c",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "BelleAme Toast Biscuit 250(±)60gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa975c115075f231ecd400_BelleAme-Toast-Biscuit-25060gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff71a4029080802d1370b",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Funtastic Premium Toast Biscuit 250(±)65gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66844d51f2321da2357f5fde_Funtastic-Premium-Toast-Biscuit-25065g_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "66825eec5f4f66ade1b50689",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Paragon Butter Toast Biscuit 300gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff7244029080802d137ce",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Paragon Plain Toast Biscuit 300gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa974ad61902ef2307b763_Paragon-Plain-Toast-Biscuit-300gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff7244029080802d137cb",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Paragon Ghee Toast Biscuit 200gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66963bf3414c61225be9c552_Paragon-Ghee-Toast-Biscuit-200gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "668f61ed5e6816d77d9f4b87",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Paragon Sweet Toast Biscuit 200gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6853e11b33549f984edca040_Paragon-Sweet-Toast-Biscuit-200gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "66825ef65f4f66ade1b50a52",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "ACI Fun Sweet Toast Biscuits 250gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6824747ea67440935db05687_ACI-Fun-Sweet-Toast-Biscuits-250gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "66825ee85f4f66ade1b4fdcc",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pran Special Toast 185(±65)gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9620115075f231ecce89_Pran-Special-Toast-18565gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff1d3ae4f247aa6ee9438",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Kishwan Special Toast 250(±)10gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9632d61902ef23078d8a_Kishwan-Special-Toast-25010gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff404ae4f247aa6ee9863",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Ifad Premium Muri Toast 300(±)50gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa96a3d61902ef2307b47f_Ifad-Muri-Toast-Butter-Rusk-350gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff5804029080802d12cf2",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "ACI Fun Tiny Toast 180gm (Buy2 Get1 Free)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/68247482a67440935db059b3_ACI-Fun-Tiny-Toast-180gm-Buy2-Get1-Free_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67189e6388745283cded8c73",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Paragon Plain 300gm+G.Toast 200gm (Save 30 tk)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67596351f8767effe31b2c84",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Shwapno Sweet Toast 350gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6811c5c5763cb095184c7589",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "ACI Fun Tiny Toast Chatpata Masala 180gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69529e93c276531e009464db_ACI-Fun-Tiny-Toast-Chatpata-Masala-180gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68218dd01335e3aea731e67c",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "ACI Fun Ghee Toast Biscuit 200gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69529ec1846ae6a8d85748ad_ACI-Fun-Ghee-Toast-Biscuit-200gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68218dd21335e3aea731e772",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "ACI Fun Plain Toast 250gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6853e4110c1fa0ca8bae8c13_ACI-Fun-Plain-Toast-250gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68218ded1335e3aea731fd21",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "ACI Fun Tiny Toast Chatp.Masala 25(±)15gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6853e4100c1fa0ca8bae8c0d_ACI-Fun-Tiny-Toast-Chatp-Masala-2515gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68218dee1335e3aea731fdcd",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Paragon Toast (BuyS. 200g+B.300g G190g PF)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "695cb82e512100b63bd83f61",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Ifad Muri Toast Biscuit 50gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c38528d96c7c8a3e68d248",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "KaziFarms Kitchen Plain Toast Biscuit 250gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69d719ad9a6b78ba04c1a7ec",
+      "multiplyProductPrice": 1
+    }
+  }
+]

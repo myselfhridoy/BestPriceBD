@@ -1,0 +1,182 @@
+[
+  {
+    "productName": "Kent Cream of Vegetable Soup 68gm Turkey",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66826a59ed04c1252b7bef6b_Kent-Cream-of-Vegetable-Soup-68g-TR_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6680e97a7c6aae2161566f6f",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Kent Cream of Chicken Soup 68gm Turkey",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66826a5aed04c1252b7bef83_Kent-Cream-of-Chicken-Soup-68g-TR_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6680e97b7c6aae2161566f86",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Lady Anna Soup Chicken 66gm Thailand",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66826a55ed04c1252b7bef10_Lady-Anna-Soup-Chicken-66g-TH_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6680e97c7c6aae2161566f8b",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Kent Chicken Noodle Soup 66gm Turkey",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66826a5aed04c1252b7bef79_Kent-Chicken-Noodle-Soup-66g-TR_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6680e97c7c6aae2161566f90",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Maggi Healthy Soup Corn With Chicken 25gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9610d61902ef23078bed_Maggi-Healthy-Soup-Corn-With-Chicken-25gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff1d7ae4f247aa6ee9498",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Maggi Healthy Soup Thai 35gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9615d61902ef23078c25_Maggi-Healthy-Soup-Thai-35gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff1daae4f247aa6ee94c5",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Maggi Healthy Soup Vegetable 25gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9614d61902ef23078c21_Maggi-Healthy-Soup-Vegetable-25gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff1d9ae4f247aa6ee94c2",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Knorr Classic Thai Soup 28gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/67d2e1719b1b113f0bd56bb6_Knorr-Classic-Thai-Soup-28gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff41cae4f247aa6ee9a76",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Knorr Classic Chicken Corn Soup 24gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/67d2e00c9b1b113f0bd39f67_Knorr-Classic-Chicken-Corn-Soup-24gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff42aae4f247aa6ee9b96",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Knorr Classic Hot & Sour Chicken Soup 31gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/67d2e0179b1b113f0bd3b027_Knorr-Classic-Hot-Sour-Chicken-Soup-31gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff57d4029080802d12cb0",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Maggi Healthy Corn Soups 25gm (Buy4 Get1 Free)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c385a6d96c7c8a3e6b2212",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Maggi Healthy Soups Thai 35gm (Buy4 Get1 Free)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c385aed96c7c8a3e6b5458",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Ching`s Hot & Sour Soup 55gm India",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c385c3d96c7c8a3e6bd513",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Ching`s Hot & Sour Soup 12gm India",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c385c5d96c7c8a3e6bdfcc",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Ching`s Manchow Soup 12gm India",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c385c6d96c7c8a3e6be40d",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Ching`s Manchow Soup 55gm India",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c385cbd96c7c8a3e6bef96",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Lady Ann Soup Mushroom 66gm Thailand",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69d719da9a6b78ba04c24b00",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Batchelors Cup A Soup Chicken & Leek 86gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69d71a569a6b78ba04c2f13d",
+      "multiplyProductPrice": 1
+    }
+  }
+]

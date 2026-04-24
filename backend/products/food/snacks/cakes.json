@@ -1,0 +1,132 @@
+[
+  {
+    "productName": "Dan Cake Cappuccino Muffin 12X40gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa96c7d61902ef2307b633_Dan-Cake-Cappuccino-Muffin-12X40gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff5934029080802d12e6f",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Dan Cake Vanilla Layer Cake 12PcsX30(±3)gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa96b3d61902ef2307b54b_Dan-Cake-Vanilla-Layer-Cake-12pcsX303gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff5894029080802d12da9",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Dan Cake Vanilla Muffin 30gmX12Pcs",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa967fd61902ef2307b2ab_Dan-Cake-Vanilla-Muffin-30gmX12pcs_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff42fae4f247aa6ee9bf6",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Dan Cake Chocolate Swiss Roll 200gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa96b0d61902ef2307b523_Dan-Cake-Chocolate-Swiss-Roll-200gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff5864029080802d12d73",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Funtastic Cream Filled Chocolate Cupcake 18gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff70f4029080802d13639",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Funtastic Cream Filled Vanilla Cupcake 18gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6853e22a0c1fa0ca8bae4430_Funtastic-Cream-Filled-Vanilla-Cupcake-18gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff70f4029080802d1363c",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Yum Chocolate Muffin Cake 23(±)6gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9745115075f231ecd2d8_Yum-Chocolate-Muffin-Cake-236gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff70f4029080802d1363f",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Yum Chocolate Layer Cake 17gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9746115075f231ecd2dc_Yum-Chocolate-Layer-Cake-20gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff70f4029080802d13642",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Yum Vanilla Layer Cake 17gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9746115075f231ecd2e0_Yum-Vanilla-Layer-Cake-20gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff7104029080802d13645",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Fun Super Champ Chocolate Muffin Cake 18gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69529e76c276531e00945fe5_Fun-Super-Champ-Chocolate-Muffin-Cake-18gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68218dc71335e3aea731e2a1",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Fun Super Champ Butter Plain Cake 20gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69529e79c276531e00946224_Fun-Super-Champ-Butter-Plain-Cake-20gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68218dca1335e3aea731e3e5",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Fun Super Champ Pineapple Custard Cake 20gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69529e7bc276531e00946228_Fun-Super-Champ-Pineapple-Custard-Cake-20gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68218dcd1335e3aea731e45b",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "GoldMark Choco Pie Plain Cake 22gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68f753601a33a98685c878e6",
+      "multiplyProductPrice": 1
+    }
+  }
+]

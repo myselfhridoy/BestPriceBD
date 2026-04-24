@@ -1,0 +1,112 @@
+[
+  {
+    "productName": "Meiji Hello Panda Biscuits Milk Flavour 47gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69529dbfc276531e009438ff_Meiji-Hello-Panda-Biscuits-Milk-Flavour-47gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "667c43a742695d6ee23cd3c9",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Olympic Milk Marie Biscuit 200gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9643d61902ef23078e52_Olympic-Milk-Marie-Biscuit-200gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff40bae4f247aa6ee98fc",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Olympic Milk Plus Biscuit 190gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6853e0e5b033e30e9e4e9563_Olympic-Milk-Plus-Biscuit-190gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "66825ef35f4f66ade1b509f9",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Dekko Bhalobasa Chocol.Milk Cookies 88gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66963bef414c61225be9c51c_Dekko-Bhalobasa-Chocol-Milk-Cookies-88g_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "66825f085f4f66ade1b519c7",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Bisk Club (Pran) Fit Crackers Milk Flavored Biscuits 130(±)5gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9659d61902ef23079daf_Bisk-Club-Fit-Crackers-Milk-Flavored-Biscuits-1305gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff415ae4f247aa6ee99c8",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Bisk Club Fit Crackers Milk Flavour 60(±)10gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9670d61902ef2307b0d3_Bisk-Club-Fit-Crackers-Milk-Flavour-6010gm_1.png",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff41dae4f247aa6ee9a85",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Funtastic Milk Mate Biscuit 203gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9742115075f231ecd2b4_Funtastic-Milk-Mate-Biscuit-225gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff70e4029080802d13621",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Funtastic Milk Mate Biscuit 42gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9742115075f231ecd2b8_Funtastic-Milk-Mate-Biscuit-5510gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff70e4029080802d13624",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Dekko Tej Milk Biscuits 70(±)5gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa96dad61902ef2307b70f_Tej-Milk-Biscuits-70gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff59b4029080802d12f20",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Paragon Milk Cookies Biscuit 200(±)50gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69529e84c276531e009462fb_Paragon-Milk-Cookies-Biscuit-20050gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67189cf588745283cdeb611e",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Khong Guan Marie Biscuits 400gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69d719e79a6b78ba04c28b2d",
+      "multiplyProductPrice": 1
+    }
+  }
+]

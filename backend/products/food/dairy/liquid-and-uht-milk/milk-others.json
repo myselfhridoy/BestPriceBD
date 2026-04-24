@@ -1,0 +1,492 @@
+[
+  {
+    "productName": "Cowhead Pure Milk 1Ltr.",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa950a115075f231ec6fe6_Cowhead-Pure-Milk-1L_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed6a4029080802d03b23",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pran UHT Milk 1000ml (Tetra)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa950c115075f231ec7127_Pran-UHT-Milk-1000ml-Tetra_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed6a4029080802d03b2f",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pran Pasteurized Liquid Milk 1000ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/68b804447108e52286e57e1b_2500277_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed6b4029080802d03b41",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pran UHT Milk 500ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9504115075f231ec6a68_Pran-UHT-Milk-500ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed684029080802d03ae7",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pran Mango Milk Drink 180(±)20ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa950f115075f231ec73ed_Pran-Mango-Milk-Drink-18020ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed6b4029080802d03b4d",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pran Chocolate Milk Drink 200ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa950f115075f231ec743d_Pran-Chocolate-Milk-Drink-200ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed6b4029080802d03b50",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pran Mango Flavored Milk 200ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa951a115075f231ec7de6_Pran-Mango-Flavored-Milk-200ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed6f4029080802d03bb6",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pran Chocolate Flavored Milk 200ml (Pouch)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa951a115075f231ec7e3c_Pran-Chocolate-Flavored-Milk-200ml-Pouch_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed6f4029080802d03bb9",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Aarong Liquid Milk 1000ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9501115075f231ec68b1_Aarong-Dairy-Liquid-Milk-1000ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed674029080802d03ac9",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Aarong UHT Full Cream Liquid Milk 500ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9513115075f231ec77d9_Aarong-Dairy-UHT-Full-Cream-Liquid-Milk-500ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed6d4029080802d03b77",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Aarong Mango Milk UHT Flavor 200ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9502115075f231ec68fb_Aarong-Dairy-Mango-Milk-UHT-Flavor-200ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed674029080802d03acf",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Aarong Choco Milk UHT Flavor 200ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9502115075f231ec6917_Aarong-Dairy-Choco-Milk-UHT-Flavor-200ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed674029080802d03ad2",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Aarong Dairy UHT Milk 200ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9524115075f231ec87d1_Aarong-Dairy-UHT-Milk-200ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed724029080802d03c19",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Aarong Dairy Chocolate Milk Drink UHT 125ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9524115075f231ec8829_Aarong-Dairy-Chocolate-Milk-Drink-UHT-125ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed724029080802d03c1c",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Aarong Dairy Strawberry Yogurt Drink UHT 125ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9524115075f231ec8858_Aarong-Dairy-Strawberry-Yogurt-Drink-UHT-125ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed724029080802d03c1f",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Farm Fresh UHT Milk 500ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9507115075f231ec6cb7_Farm-Fresh-UHT-Milk-500ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed694029080802d03b02",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Farm Fresh Mango UHT Milk 250ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9544115075f231eca3b2_Farm-Fresh-Mango-UHT-Milk-250ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed774029080802d03ca9",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Farm Fresh Elachi UHT Milk 250ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9544115075f231eca3f5_Farm-Fresh-Elachi-UHT-Milk-250ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed774029080802d03cac",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Farm Fresh Chocolate UHT Milk 250ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9545115075f231eca445_Farm-Fresh-Chocolate-UHT-Milk-250ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed774029080802d03caf",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Farm Fresh UHT Milk 200ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9545115075f231eca495_Farm-Fresh-UHT-Milk-200ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed774029080802d03cb2",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Marks Belgian Chocolate UHT Milk 200ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa953e115075f231ec9e11_Marks-Active-School-Belgian-Chocolate-Milk-Shake-200ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed754029080802d03c73",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Marks Strawberry Ice Cream UHT Milk 200ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9541115075f231eca0ce_Marks-Active-School-Strawberry-Ice-Cream-Milk-Shake-200ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed764029080802d03c8e",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Marks Belgian Chocolate UHT Milk 125ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa953f115075f231ec9e65_Marks-Active-School-Belgian-Chocolate-Milk-Shake-125ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed754029080802d03c76",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Marks Cookies & Cream UHT Milk 125ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa953f115075f231ec9f01_Marks-Active-School-Cookie-Cream-Milk-Shake-125ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed754029080802d03c7c",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Marks Strawberry Ice Cream UHT Milk 125ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9541115075f231eca136_Marks-Active-School-Strawberry-Ice-Cream-Milk-Shake-125ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed764029080802d03c91",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Starship Chocolate Milk Shake 125ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa953f115075f231ec9f41_Starship-Chocolate-Milk-Shake-125ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed754029080802d03c7f",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "RD UHT Chocolate Milk 200ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9515115075f231ec79fd_RD-UHT-Chocolate-Milk-200ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed6d4029080802d03b8c",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "RD UHT Chocolate Milk 200ml (Poly Pack)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9512115075f231ec76fe_RD-UHT-Chocolate-Milk-200ml-Poly-Pack_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed6c4029080802d03b6e",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "RD UHT Strawberry Milk 200ml (Poly Pack)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9513115075f231ec7741_RD-UHT-Strawberry-Milk-200ml-Poly-Pack_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed6c4029080802d03b71",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pauls UHT Pure Milk 1Ltr.",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6728a0b43a11aefc405bbd85_Pauls-UHT-Pure-Milk-1L_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67189e0688745283cded1322",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Cowhead Slim Pure Milk 1Ltr.",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6728a0c53a11aefc405bc0f3_Cowhead-Slim-Pure-Milk-1L_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67189e0788745283cded13a2",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Cowhead Lactose Free Pure Milk 1Ltr.",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6728a0d03a11aefc405bc509_Cowhead-Lactose-Free-Pure-Milk-1L_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67189e0888745283cded1417",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Shake Kheer Milk shake 250ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6728a140870366949a03fc82_Shake-Kheer-Milk-shake-250ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67189e0a88745283cded154a",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "RD Mango Drinks 200ml (Buy3 Get1 Free)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6744b3255b468c38f72990d0",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "RD Banana Milk Drinks 200ml (Buy3 Get1 Free)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/695264afd83abe028994e779_RD-Banana-Milk-Drinks-200ml-Buy3-Get1-Free_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6744b3265b468c38f7299413",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Farm Fresh UHT Whole Milk 1Ltr.",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69b116f69d19fa3e6c9ad9ea_Farm-Fresh-UHT-Whole-Milk1Ltr-_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6965feaf716b1456871bd81f",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Aarong UHT Mocha Milk Drink 200ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69b116fe9d19fa3e6c9adbc0_Aarong-UHT-Mocha-Milk-Drink-200ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6965feb5716b1456871bda3a",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Aarong UHT Vanilla Milk Drink 200ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69b117009d19fa3e6c9adc12_Aarong-UHT-Vanilla-Milk-Drink-200ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6965feb6716b1456871bdc3d",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Paragon UHT Chocolate Milk 200ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69b117059d19fa3e6c9add47_Paragon-UHT-Chocolate-Milk-200ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69954c9cac453d092a6d7f0f",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Paragon Lanan Fermented Milk 250ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69954c9fac453d092a6d81b1",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Paragon UHT Whole Milk 500ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69c8f67c001399005d41165a_Paragon-UHT-Whole-Milk-500ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69954c9fac453d092a6d820d",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Paragon UHT Whole Milk 200ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69c8f687001399005d41179e_Paragon-UHT-Whole-Milk-200ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69954ca0ac453d092a6d8299",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Cowbell Liquid Premium Milk 500ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c384f6d96c7c8a3e67fa02",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Marks Café Latte Milk Shake 200ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69e99416596add6a8a87bed5_Marks-Café-Latte-Milk-Shake-200ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c38500d96c7c8a3e683555",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Danish Pasteurized Milk 500ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c385d5d96c7c8a3e6c3364",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Cadbury Drinking/ HOT Chocolate 500gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c38601d96c7c8a3e6cb755",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pocky Cookies & Cream 40gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69d719c79a6b78ba04c1f20b",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Kirkland Almond Original Milk 946ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69d71a3b9a6b78ba04c2db24",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Lipton Milk Tea Drink 240ml (Can) Malaysia",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69d71a3f9a6b78ba04c2dcab",
+      "multiplyProductPrice": 1
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "productName": "Cowhead Pure Milk Low Fat 1Ltr.",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa950b115075f231ec7041_Cowhead-Pure-Milk-Low-Fat1L_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed6a4029080802d03b26",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Milk Man Slim Low Fat UHT Milk 1000ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9517115075f231ec7b27_Milk-Man-Slim-Low-Fat-UHT-Milk-1000ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed6e4029080802d03b98",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Aarong Low Fat Milk Powder 400gm (BIB)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9515115075f231ec794b_Aarong-Dairy-Low-Fat-Milk-Powder-400gm-BIB_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed6d4029080802d03b86",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Marks Gold Low Fat Milk Powder 400gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/67dc0c3003256a906b022acf_Marks-Gold-Low-Fat-Milk-Powder-400gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed6e4029080802d03ba4",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Marks Diet Non Fat Milk Powder 400gm (BIB)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69e99411596add6a8a87be94_Marks-Diet-Non-Fat-Milk-Powder-400gm-BIB_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed6e4029080802d03baa",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Meadow Fresh Pure Low Fat Milk 1Ltr.",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6728a0df3a11aefc405bc83f_Meadow-Fresh-Pure-Low-Fat-Milk-1L_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67189e0988745283cded1523",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Arla Natural Low Fat Milk 1.5% 1Ltr.",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/686e525e92052a3aa3fa5d96_Arla-Natural-Low-Fat-Milk-1-5-1Litter_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "686e51b1f00d2bc218ecd2be",
+      "multiplyProductPrice": 1
+    }
+  }
+]

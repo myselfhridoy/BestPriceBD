@@ -1,0 +1,42 @@
+[
+  {
+    "productName": "Golden Harvest Mini Singara 600gm (40Pcs)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa966dd61902ef2307ae21_Golden-Harvest-Mini-Singara-40pcs-600gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff41cae4f247aa6ee9a6d",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "AG Food Chicken Mini Singara (14-15)Pcs 300gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa96acd61902ef2307b4f7_AG-Food-Chicken-Mini-Singara-14-15pcs-300gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff5854029080802d12d52",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Paragon Liver Singara 375gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69d61b230478fc9a463742fe_Paragon-Liver-Singara-375gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "66d7ed567452e6068eeac655",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Paragon Beef Liver Singara 300gm (12Pcs)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/6903306cbf7a830926e47179_Paragon-Beef-Liver-Singara-300gm-12Pcs_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68f8a5341d7b0f7351f37548",
+      "multiplyProductPrice": 1
+    }
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "productName": "Schweppes Soda Water Can 330(±)10ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66827b37e605f3fd35f16c1b_Schweppes-Soda-Water-Can-33010ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6680e9747c6aae2161566db5",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Schweppes Tonic Water Can 330(±)10ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66827b38e605f3fd35f16c22_Schweppes-Tonic-Water-Can-33010ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6680e9797c6aae2161566f0f",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Coca Cola 1000ml (Pet)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9393115075f231ec4b76_Coca-Cola-1000ml-Pet_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec4aae4f247aa6ee6be7",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Coca Cola Drink 400ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa93b5115075f231ec4d1e_Coca-Cola-Drink-400ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec53ae4f247aa6ee6d2e",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Coca Cola 250ml (Go Pack)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa93b4115075f231ec4d12_Coca-Cola-250ml-Go-Pack_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec53ae4f247aa6ee6d25",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Coca Cola Zero 250ml (Pet)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa93b7115075f231ec4d36_Coca-Cola-Zero-250ml-Pet_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec54ae4f247aa6ee6d40",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Coca Cola 325(±)5ml Imported (Can)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66827b34e605f3fd35f16c0c_Coca-Cola-Can-3255ml-Imp_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6680e9747c6aae2161566dbd",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Coca Cola Classic Drink Can 180ml Thailand",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66827b51e605f3fd35f16cd3_Coca-Cola-Classic-Drink-Can-180ml-TH_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6680e9787c6aae2161566f05",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Coca Cola 250ml (Can)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66963bfa414c61225be9c5ab_Coca-Cola-250ml-can_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "668f61f05e6816d77d9f4d0a",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Sprite Drink 400ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa93b5115075f231ec4d22_Sprite-Drink-400ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec54ae4f247aa6ee6d31",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Sprite Drink 250ml (Pet)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa93b6115075f231ec4d2a_Sprite-Drink-250ml-Pet_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec54ae4f247aa6ee6d37",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Sprite Zero Sugar 250ml (Pet)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa93b6115075f231ec4d32_Sprite-Zero-Sugar-250ml-Pet_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec54ae4f247aa6ee6d3d",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Sprite Sparkling Lemon Lime Can 330(±)10ml Imported",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66827b36e605f3fd35f16c17_Sprite-Sparkl-Lem-Lime-Can-33010mlImp_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6680e9797c6aae2161566f0a",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Sprite 250ml (Can)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66963bfb414c61225be9c5af_Sprite-250ml-can_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "668f61f15e6816d77d9f4d55",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "7 Up 1.75Ltr. (Pet Bottle)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69b83291ea3e6c5bdf106d7c_2303753_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec59ae4f247aa6ee6deb",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "7 Up Pet Bottle 200ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa939e115075f231ec4c06_7-Up-250-ml-Lemon-Flavour-Pet-Bottle_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec4eae4f247aa6ee6c56",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "7 Up 1000ml (Plastic Bottle)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9388115075f231ec4ae2_7-Up-1000ml-Plastic-Bottle_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec47ae4f247aa6ee6b75",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pepsi Drinks 250ml (Can)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa93af115075f231ec4cde_Pepsi-Drinks-250ml-Can_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec52ae4f247aa6ee6cfb",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pepsi 1000ml  (Plastic Bottle)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9387115075f231ec4ada_Pepsi-1L-Plastic-Bottle_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec47ae4f247aa6ee6b6f",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pepsi Diet 500ml (Pet Bottle)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa94bc115075f231ec4e45_Pepsi-Diet-600ml-Pet-Bottle_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec5aae4f247aa6ee6e00",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pepsi Diet 250(±)50ml (Pet)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa94c1115075f231ec4e7d_Pepsi-Diet-250ml-Pet-Bottle_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed544029080802d0386e",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pepsi 330ml Can Imported",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66827b40e605f3fd35f16c53_Pepsi-330ml-Can-Imp_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6680e9777c6aae2161566ecf",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pepsi 250(±)50ml (Pet)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa939e115075f231ec4c02_Pepsi-250ml-Pet-Bottle_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec4dae4f247aa6ee6c53",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Mirinda 1000ml (Plastic Bot)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9388115075f231ec4aea_Mirinda-1000ml-Plastic-Bot_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec48ae4f247aa6ee6b7b",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Mirinda Orange Drinks 250ml (Can)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa93af115075f231ec4cd6_Mirinda-Orange-Drinks-250ml-Can_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec52ae4f247aa6ee6cf5",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Mirinda 250(±)50ml (Pet)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9388115075f231ec4aee_Mirinda-250ml-Pet_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec48ae4f247aa6ee6b7e",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Mirinda Orange Drink Can 325(±)5ml Imported",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66827b42e605f3fd35f16c5e_Mirinda-Orange-Drink-Can-3255mlImp_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6680e9757c6aae2161566dc2",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Mountain Dew Drinks 250ml (Can)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa93ae115075f231ec4cce_Mountain-Dew-Drinks-250ml-Can_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec52ae4f247aa6ee6cef",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Mountain Dew Drinks Can 330(±)5ml Imported",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66827b3ae605f3fd35f16c2a_Mountain-Dew-Drinks-Can-3305ml-Imp_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6680e9787c6aae2161566f00",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Fanta 1000ml (Pet)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa939f115075f231ec4c12_Fanta-1000ml-Pet_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec4eae4f247aa6ee6c5f",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Fanta Orange Flavoured 400ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa93b4115075f231ec4d1a_Fanta-Orange-Flavoured-400ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec53ae4f247aa6ee6d2b",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Fanta Orange Drink 250ml (Pet)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa93bb115075f231ec4d6a_Fanta-Orange-Drink-250ml-Pet_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec55ae4f247aa6ee6d67",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Fanta Grape Flavour Drink 330(±)10ml Imported (Can)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66827b3de605f3fd35f16c4a_Fanta-Grape-Flav-Drink-Can-33010mlImp_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6680e9757c6aae2161566ddb",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Fanta Orange Can 330(±)10ml Imported",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/668fd5d0067663f5e6472dfe_Fanta-Orange-Can-33010ml-Imp_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6680e9767c6aae2161566e71",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Fanta Strawberry Flavour Drinks 330(±)10ml Imported (Can)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/668fd5d1067663f5e6472f20_Fanta-Straw-Flv-Drinks-Can-33010ml-Imp_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6680e9777c6aae2161566ec9",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Fanta Can 250ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66963bfb414c61225be9c5b3_Fanta-Can-250ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "668f61f05e6816d77d9f4d0f",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Fresh Googly Drink Pet 1Ltr.",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6655ae0a8b70ee8a438344c6_Fresh-Googly-Drink-Pet-1L_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6655aa17112c66696f320677",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Fresh Up Drink Pet 1Ltr.",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66827b53e605f3fd35f16cdc_Fresh-Up-Drink-Pet-1L_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6655aa17112c66696f320681",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Fresh Cola Drink Pet 1Ltr.",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6655ae0a8b70ee8a438344ca_Fresh-Cola-Drink-Pet-1L_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6655aa17112c66696f32067c",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Mojo 250ml (Pet)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9386115075f231ec4ace_Mojo-250ml-Pet_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec47ae4f247aa6ee6b66",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Mojo 2000ml (Plastic Bot)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66827b28e605f3fd35f16b9f_Mojo-2000ml-Plastic-Bot_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6680e9767c6aae2161566e76",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Evervess Club Soda Drinks 600(±)100ml (Pet)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/668269f7ed04c1252b7be6a7_Evervess-Club-Soda-Drinks-600ml-Pet_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec52ae4f247aa6ee6cec",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Kinley Club Soda Water 600ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa93b2115075f231ec4d02_Kinley-Club-Soda-Water-600ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec53ae4f247aa6ee6d19",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Sprite 1000ml (Pet)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6728a03b3a11aefc405bb538_Sprite-1000ml-Pet_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "66d7ed547452e6068eeac432",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pepsi 1.75Ltr. (Pet Bottle)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/6952637c38648239adbc7701_Pepsi-1-7Ltr-Pet-Bottle_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "66d7ed5e7452e6068eeacbd9",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Clemon 500ml (Pet)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6728a0393a11aefc405bb4df_Clemon-500ml-Pet_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67189de488745283cdecddd4",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Speed Ginger Drink 250ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6728a0a33a11aefc405bbc45_Speed-Ginger-Drink-250ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67189de588745283cdecde50",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Mojo 500ml (Pet)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6728a0343a11aefc405bb4b7_Mojo-500ml-Pet_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67189e5288745283cded7491",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Clemon 250ml (Pet)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6728a0383a11aefc405bb4cf_Clemon-250ml-Pet_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67189e5388745283cded74e2",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Clemon Mojito Drink 250ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6728a0a53a11aefc405bbc4d_Clemon-Mojito-Drink-250ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67189e5488745283cded7575",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pepsi 500ml (Pet)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/680e5f705462ec5a2b78ada3_Pepsi-500ml-Pet_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67596349f8767effe31b1a71",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Coca Cola Zero Drinks Can 330(±)10ml Imp",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/6952634938648239adbc64bf_Coca-Cola-Zero-Drinks-Can-33010ml-Imp_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "675e906a4366b500bf6e94a3",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Speed Green Apple Drink 250ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/680e5f695462ec5a2b78ad61_Speed-Green-Apple-Drink-250ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "675e906c4366b500bf6ea035",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Clemon 2000ml (Pet Bottle)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/680e5f725462ec5a2b78adb6_Clemon-2000ml-Pet-Bottle_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "675e906e4366b500bf6ea45a",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Mojo 250ml Can",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/680e5f775462ec5a2b78ade9_Mojo-250ml-Can_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "675e906e4366b500bf6ea6c5",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Coca Cola Diet 250ml Can",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6853e1c50c1fa0ca8bae3d45_Coca-Cola-Diet-250ml-Can_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67f7cc37750c4fe916487ad0",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Mirinda 500ml Pet",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/680e5f735462ec5a2b78adc4_Mirinda-500ml-Pet_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67f7cc3a750c4fe91648927e",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Twing Orange Drink 250ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6853e1e20c1fa0ca8bae3e9e_Twing-Orange-Drink-250ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67f7cc40750c4fe91648d161",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Twing Orange Drink 500ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6853e1e20c1fa0ca8bae3e96_Twing-Orange-Drink-500ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67f7cc41750c4fe91648d5d0",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Coca Cola Zero Drinks Can 180ml Imported",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67f7cc41750c4fe91648da6b",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Coca Cola 1.75Ltr. Pet",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6853e1df0c1fa0ca8bae3e8a_Coca-Cola-1-75Litter-Pet_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67f7cc50750c4fe916493efc",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Sprite 1.75Ltr. Pet",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6853e1de0c1fa0ca8bae3e85_Sprite-1-75Litter-Pet_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67f7cc54750c4fe91649651f",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pepsi Zero Sugar N.Calories 320ml (Can) Malaysia",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68984450c1382f86a26c8db5",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "7 Up Can 330(±)5ml (Imported)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68984453c1382f86a26c8f87",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Schweppes Dry Ginger Ale 330(±)10ml (Can)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68984455c1382f86a26c9744",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "7 Up 500ml (Pet)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/6952632f38648239adbc5ab5_7-Up-500ml-Pet_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68984455c1382f86a26c98d5",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Mojo Zero Can 250ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/6952639138648239adbc7f0e_Mojo-Zero-Can-250ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68984456c1382f86a26c990d",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Fresh Mejanda Drink 250ml (Pet)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/695263c638648239adbc8f1b_Fresh-Mejanda-Drink-250ml-Pet_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6898445ac1382f86a26ca238",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Mountain Dew 200ml (Pet)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/695263b438648239adbc8949_Mountain-Dew-200ml-Pet_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6898445bc1382f86a26ca403",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "SMC Plus Lemon Drinks 250ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6965feae716b1456871bd6fd",
+      "multiplyProductPrice": 1
+    }
+  }
+]

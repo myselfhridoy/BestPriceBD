@@ -1,0 +1,32 @@
+[
+  {
+    "productName": "Pran Labang 200(±)50ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa951d115075f231ec814a_Pran-Labang-20050ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed704029080802d03bdd",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Aarong Dairy Matha 200ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9524115075f231ec8780_Aarong-Dairy-Matha-200ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed724029080802d03c16",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Moghol Shahi Labang/Matha 500ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6744b3275b468c38f7299599",
+      "multiplyProductPrice": 1
+    }
+  }
+]

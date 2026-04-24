@@ -1,0 +1,52 @@
+[
+  {
+    "productName": "Dekko Dry Cake Biscuits 300gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa96f2115075f231eccef4_Dekko-Dry-Cake-Biscuits-300gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff59d4029080802d12f41",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Paragon Dry Cake Biscuit 300gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66963bf2414c61225be9c53a_Paragon-Dry-Cake-Biscuit-300gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "668f61ed5e6816d77d9f4b94",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Dekko Dry Cake (Buy300gm Get150gm Org.B.Free)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6965fec8716b1456871be2f0",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Pusti Happy Time Dry Cake 300gm (Buy2 Get1 Free)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c384fad96c7c8a3e68014c",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Olympic Dry Cake Biscuits 290gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c3850ed96c7c8a3e6869d7",
+      "multiplyProductPrice": 1
+    }
+  }
+]

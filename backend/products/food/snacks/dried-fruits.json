@@ -1,0 +1,42 @@
+[
+  {
+    "productName": "Fresh Garden Mixed Plum 200gm China",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6728a4953a11aefc405e7cb4_Fresh-Garden-Mixed-Plum-200gm-China_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff7164029080802d136b7",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Fresh Garden Sakura Plum 200gm China",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9752115075f231ecd388_Fresh-Garden-Sakura-Plum-220gm-China_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff7154029080802d136b1",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Fresh Garden Red Plum 200gm China",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9752115075f231ecd38c_Fresh-Garden-Red-Plum-220gm-China_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff7154029080802d136b4",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Sunkist Premium Tropical Fruits Blend 150gm Thailand",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6728a48d3a11aefc405e7707_Sunkist-Premium-Tropical-Fruits-Blend-150gm-Thailand_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67189d4088745283cdebf426",
+      "multiplyProductPrice": 1
+    }
+  }
+]

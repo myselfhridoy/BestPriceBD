@@ -1,0 +1,482 @@
+[
+  {
+    "productName": "Shwapno Kaju Badam (Cashew Nut) Loose kg",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa95f7115075f231eccc9f_Shwapno-Kaju-Badam-Cashew-Nut-Loose-Kg_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff1bfae4f247aa6ee9297",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Shwapno Kath Badam (Almond) Loose kg",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa95f7115075f231eccc9b_Shwapno-Kath-Badam-Almond-Loose-Kg_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff1bfae4f247aa6ee9294",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Shwapno Pesta Badam(Pestacio) 100gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa95e9115075f231eccbad_Shwapno-Pesta-BadamPestacio-100gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff1b8ae4f247aa6ee920a",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Shwapno Kath Badam (Almond) 100gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa95e6115075f231eccb91_Shwapno-Kath-Badam-Almond-100gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff1b7ae4f247aa6ee91f5",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Shwapno Kaju Badam(Cashew Nuts) 50gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa95e7115075f231eccba1_Shwapno-Kaju-BadamCashew-Nuts-50gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff1b8ae4f247aa6ee9201",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Shwapno Kath Badam (Almond) 50gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa95e6115075f231eccb8d_Shwapno-Kath-Badam-Almond-50gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff1b7ae4f247aa6ee91f2",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Shwapno Kaju Badam(Cashew Nuts) 25gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/665e84b2673683244576a918_Shwapno-Kaju-BadamCashew-Nuts-25gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff1bbae4f247aa6ee9240",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Shwapno Kath Badam (Almond) 25gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa95ee115075f231eccc15_Shwapno-Kath-Badam-Almond-25gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff1bbae4f247aa6ee923a",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Nut Walker Pistachios Dry Roasted Salted 200(±)40gm (Tin)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa96d1d61902ef2307b6a7_Nut-Walker-Pistachios-Dry-Roasted-Salted-240gm-Tin_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff5974029080802d12ecc",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Nut Walker Mixed Nuts 200(±)50gm (Tin)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/667933a1a149198fc37a8cf4_Nut-Walker-Mixed-Nuts-250gm-Tin_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff5974029080802d12ec9",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Nut Walker Cashew Nuts Roasted Salted 200(±)50gm (Tin)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa96d1d61902ef2307b6ab_Nut-Walker-Cashew-Nuts-Roasted-Salted-250gm-Tin_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff5974029080802d12ecf",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Nut Walker Cashew Nuts Roasted Salted 135(±)15gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66641680f96348184fde452c_Nut-Walker-Cashew-Nuts-Roasted-Salted-13515gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff40cae4f247aa6ee9914",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Nut Walker Cashew Nuts Thai Lime & Chili 100(±)30gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa964ad61902ef230791f4_Nut-Walker-Cashew-Nuts-Thai-Lime-Chili-130gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff40fae4f247aa6ee9947",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Nut Walker Cashew Nuts Large Roasted Salted 120gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa964bd61902ef23079255_Nut-Walker-Cashew-Nuts-Large-Roasted-Salted-120gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff40fae4f247aa6ee994a",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Nut Walker Pistachios Dry Roasted & Salted 35gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa964ad61902ef2307916b_Nut-Walker-Pistachios-Dry-Roasted-Salted-35gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff40eae4f247aa6ee9941",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Nut Walker Cashew Nuts Roasted Salted 35gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66641681f96348184fde4530_Nut-Walker-Cashew-Nuts-Roasted-Salted-35gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff40eae4f247aa6ee993e",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Nutcandy Salted Cashew Nuts 140gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9645d61902ef23078e6a_Nutcandy-Salted-Cashew-Nuts-140gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff40cae4f247aa6ee990e",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Sunkist Mixed Nuts Dry Roasted & Light Salted 150gm Thailand",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9718115075f231ecd0b0_Sunkist-Mixed-Nuts-Dry-Roasted-Light-Salted-150gm-Thailand_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65eff5af4029080802d130d0",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "BPM Kacha Badam 300gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/695263f338648239adbc98fc_BPM-Kacha-Badam-300gm_1.webp",
+    "quantity": 1,
+    "unit": "",
+    "shwapno": {
+      "shwapnoProductId": "66570bfce56e15b1377e00e8",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Koh-Kae Sriracha Green Peas 100gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6728a4993a11aefc405e7fe6_Koh-Kae-Sriracha-Green-Peas-100gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67189d8c88745283cdec53c6",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Nut Walker Wasabi Green Peas 100gm Thailand",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6728a4c83a11aefc405eafb5_Nut-Walker-Wasabi-Green-Peas-100gm-Thailand_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67189d8d88745283cdec559a",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Koh-Kae Wasabi Green Peas 100gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6728a4973a11aefc405e7e7a_Koh-Kae-Wasabi-Green-Peas-100gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67189e1b88745283cded2aa4",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Koh-Kae Plus Cashew Nuts 100gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6728a4983a11aefc405e7ed3_Koh-Kae-Plus-Cashew-Nuts-100gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67189e1c88745283cded2b3a",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Nut Walker Almonds Roasted Salted 130gm Thailand",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6728a4c63a11aefc405eae4d_Nut-Walker-Almonds-Roasted-Salted-130gm-Thailand_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "67189e1d88745283cded2ec6",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Sunkist Pistachios D.Rost.&Saltd. 150gm THI",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6853e2d80c1fa0ca8bae4ec5_Sunkist-Pistachios-D-Rost-Saltd-150gm-THI_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "675e904d4366b500bf6bfc43",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Nut Walker Cachew Nuts Ros.Slt. 160gm THI",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69529e25c276531e0094523c_Nut-Walker-Cachew-Nuts-Ros-Slt-160gm-THI_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "675e904e4366b500bf6c0346",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Sunkist Walnuts D.Rost.&L.Salt. 120gm THI",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "675e904e4366b500bf6c0713",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Sunkist Almonds D.Rost.&L.Salt. 140gm THI",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69529e28c276531e0094525c_Sunkist-Almonds-D-Rost-L-Salt-140gm-THI_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "675e904f4366b500bf6c09c6",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Sunkist Cashews D.Rost.&L.Salt. 160gm THI",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69529e2ac276531e0094529d_Sunkist-Cashews-D-Rost-L-Salt-160gm-THI_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "675e90504366b500bf6c0ae7",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "NUT WALKER PISTACHIOS 120gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69526621d83abe028995256f_NUT-WALKER-PISTACHIOS-120gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "675e90504366b500bf6c0c73",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Nut Walker Cashew Nuts Honey Roasted 100(±)35gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "675e90514366b500bf6c0e55",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Tong Garden Wasabi Green Peas 180gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "675e90514366b500bf6c0e9f",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Tong Garden Salted Cashew Nuts 40gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69526639d83abe0289952b72_Tong-Garden-Salted-Cashew-Nuts-40gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "675e90524366b500bf6c0ec9",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Tong Garden Salted Pistachios 40(±)10gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69526637d83abe028995298b_Tong-Garden-Salted-Pistachios-4010gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "675e90544366b500bf6c114d",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Tong Garden Salted Cashew Nuts 180(±)20gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "675e90544366b500bf6c123e",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Mazzak Pistachio Roasted Salt 40gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/696483b9e63475c559642455_Mazzak-Pistachio-Roasted-Salt-40gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "695a1cb756602eab023f14b0",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Mazzak Thai Peanut Roasted Salt 40gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/696483bbe63475c559642495_Mazzak-Thai-Peanut-Roasted-Salt-40gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "695a1cb956602eab023f16e6",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Mazzak Pistachio Roasted Salt 150gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/696483bfe63475c559642534_Mazzak-Pistachio-Roasted-Salt-150gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "695a1cb956602eab023f177f",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Mazzak Pumpkin Seeds Roasted Salt 165gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/696483c0e63475c559642554_Mazzak-Pumpkin-Seeds-Roasted-Salt-165gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "695a1cba56602eab023f1a5c",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Mazzak Cashews Roasted Light Salt 150gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/696483bde63475c5596424cf_Mazzak-Cashews-Roasted-Light-Salt-150gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "695a1ccb56602eab023f3602",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Nut Walker Mixed Nuts 100gm Thailand",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c38533d96c7c8a3e68eed8",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Nut Walker Green Peas Wasabi 180gm Thailand",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c38580d96c7c8a3e6a4950",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Nut Walker Pistachios Dry Roasted Salted 100gm Thailand",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c385a5d96c7c8a3e6b1af1",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Tong Garden Salted Peanuts Can 150gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69d71a2a9a6b78ba04c2d200",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Tong Garden Salted Cocktail Nut 45(±)5gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69d71a3f9a6b78ba04c2dcd2",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Tong Garden Green Peas Hot & Spicy 35(±)10gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69d71a4b9a6b78ba04c2e928",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Tong Garden Party Snack 40gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69d71a739a6b78ba04c309c5",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Koh-Kae Wasabi Green Peas 180gm Thailand",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69d71a789a6b78ba04c30c2e",
+      "multiplyProductPrice": 1
+    }
+  }
+]

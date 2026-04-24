@@ -1,0 +1,222 @@
+[
+  {
+    "productName": "Horlicks Classic Malt 1000gm (Jar)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/67dab501ac5a5cedd1d78d7b_Horlicks-Classic-Malt-1000gm-Jar_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec58ae4f247aa6ee6dc7",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Horlicks Lite 400gm (Jar)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/68b574ff7d266676045746a6_Horlicks-Lite-400gm-Jar_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed564029080802d038bf",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Mothers Horlicks 350gm (BIB)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/67dab503ac5a5cedd1d78dda_Mothers-Horlicks-350gm-BIB_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec49ae4f247aa6ee6b9f",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Womens Plus Horlicks 400gm Local (Jar)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/68b575e07d2666760458398f_Womens-Plus-Horlicks-400gm-Local-Jar_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec50ae4f247aa6ee6cbc",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Horlicks Junior Stage-1 500gm (Jar)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/68b574f77d266676045745fa_Horlicks-Junior-Stage-1-500gm-Jar_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed554029080802d03886",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Junior Horlicks 450gm (Jar)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/67d2dff29b1b113f0bd37ef9_Junior-Horlicks-450gm-Jar_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec55ae4f247aa6ee6d6a",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Horlicks Classic Malt 500gm (Jar)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/67dab508ac5a5cedd1d78e4d_Horlicks-Classic-Malt-500gm-Jar_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec58ae4f247aa6ee6dc1",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Horlicks Chocolate 500gm (Jar)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/67d2ded49b1b113f0bd20e23_Horlicks-Chocolate-500gm-Jar_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec58ae4f247aa6ee6dca",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Horlicks 400gm (Pouch)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/67dab556ac5a5cedd1d79685_Horlicks-400gm-Pouch_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed564029080802d038b9",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Horlicks Classic Malt 250gm (Jar)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/67dab506ac5a5cedd1d78e33_Horlicks-Classic-Malt-250gm-Jar_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec56ae4f247aa6ee6d76",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Boost Malt 400gm (Jar)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/68b574f17d266676045744df_Boost-Malt-400gm-Jar_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec56ae4f247aa6ee6d79",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "A&W Sarsaparilla Root Beer 325(±)5ml (Can)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66827b39e605f3fd35f16c26_AW-Sarsaparilla-Root-Beer-Can-3255ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6680e9317c6aae21615656c7",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Wild brew 250ml (Can)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/668269f1ed04c1252b7be697_Wild-brew-Can-250ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6680e9317c6aae21615656bc",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Speed 250ml (Can)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9385115075f231ec4ac6_Speed-250ml-Can_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec47ae4f247aa6ee6b60",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Wild Brew Apple Malt Drink 300ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/695263d438648239adbc92f8_Wild-Brew-Apple-Malt-Drink-300ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68984bf5037b6431b9d97164",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Complan Creamy Classic 500gm IN (Jar)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68985d7d271a6deb569b615c",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Complan Royal Chocolate 200gm (Jar)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68985d7e271a6deb569b6288",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Nestle Milo 400gm (BIB)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/695263bf38648239adbc8d06_Nestle-Milo-400gm-BIB_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68985d7e271a6deb569b6309",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Nestle Milo Original 240ml (Can)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "68985d80271a6deb569b637a",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Monster Energy Ultra Paradise Drinks 355ml K",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c38624d96c7c8a3e6d179b",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Monster Energy Drinks 355ml KR",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c38663d96c7c8a3e6dc830",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Nestlé Milo Pouch Packet 900gm (Pack)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c3866cd96c7c8a3e6dde32",
+      "multiplyProductPrice": 1
+    }
+  }
+]
