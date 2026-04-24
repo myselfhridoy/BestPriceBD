@@ -424,58 +424,6 @@ function CartDrawer({ open, cartItems, utilities, onClose, onRemoveItem, onClear
   )
 }
 
-function DockNavigation({ onHome, onOpenCategory, onOpenCart, onOpenSearch, activeItem, cartCount = 0 }) {
-  const handleHomeClick = () => {
-    if (typeof onHome === 'function') {
-      onHome()
-      return
-    }
-    window.scrollTo({ top: 0, behavior: 'smooth' })
-  }
-  
-  return (
-    <div
-      className="dock dock-lg fixed bottom-0 left-0 right-0 z-40 grid w-full grid-cols-4 items-center justify-items-center border-t border-slate-700 bg-slate-900/95 backdrop-blur-md md:!hidden"
-      style={{ paddingBottom: 'max(env(safe-area-inset-bottom), 0px)' }}
-    >
-      <button className={activeItem === 'home' ? 'dock-active' : ''} onClick={handleHomeClick}>
-        <svg className="size-[1.2em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-          <g fill="currentColor" strokeLinejoin="miter" strokeLinecap="butt">
-            <polyline points="1 11 12 2 23 11" fill="none" stroke="currentColor" strokeMiterlimit="10" strokeWidth="2" />
-            <path d="m5,13v7c0,1.105.895,2,2,2h10c1.105,0,2-.895,2-2v-7" fill="none" stroke="currentColor" strokeLinecap="square" strokeMiterlimit="10" strokeWidth="2" />
-            <line x1="12" y1="22" x2="12" y2="18" fill="none" stroke="currentColor" strokeLinecap="square" strokeMiterlimit="10" strokeWidth="2" />
-          </g>
-        </svg>
-        <span className="dock-label">Home</span>
-      </button>
-
-      <button className={activeItem === 'category' ? 'dock-active' : ''} onClick={onOpenCategory}>
-        <svg className="size-[1.2em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-          <rect x="3" y="3" width="7" height="7" />
-          <rect x="14" y="3" width="7" height="7" />
-          <rect x="14" y="14" width="7" height="7" />
-          <rect x="3" y="14" width="7" height="7" />
-        </svg>
-        <span className="dock-label">Category</span>
-      </button>
-
-      <button className={activeItem === 'cart' ? 'dock-active' : ''} onClick={onOpenCart}>
-        <svg className="size-[1.2em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-          <path strokeLinecap="round" strokeLinejoin="round" d="M3 3h2l1 5m0 0h13l-1.5 7h-10.5m-1-7h14m-12 11a1 1 0 100 2 1 1 0 000-2zm9 0a1 1 0 100 2 1 1 0 000-2" />
-        </svg>
-        <span className="dock-label">Cart{cartCount > 0 ? ` (${cartCount})` : ''}</span>
-      </button>
-
-      <button className={activeItem === 'search' ? 'dock-active' : ''} onClick={onOpenSearch}>
-        <svg className="size-[1.2em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-          <path strokeLinecap="round" strokeLinejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-        </svg>
-        <span className="dock-label">Search</span>
-      </button>
-    </div>
-  )
-}
-
 function App() {
   const [catalog, setCatalog] = useState([])
   const [utilities, setUtilities] = useState([])
@@ -488,7 +436,6 @@ function App() {
   const [detailsLoading, setDetailsLoading] = useState(false)
   const [detailsError, setDetailsError] = useState('')
   const [detailsCache, setDetailsCache] = useState({})
-  const [showMobileDock, setShowMobileDock] = useState(false)
   const [groupVisibleCounts, setGroupVisibleCounts] = useState({})
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState('')
@@ -504,11 +451,27 @@ function App() {
   const activeGroups = activeSection?.groups || []
 
   const allCatalogProducts = useMemo(
-    () => catalog.flatMap((section) => section.groups.flatMap((group) => group.products.map((product) => ({
-      ...product,
-      category: section.category,
-      groupName: group.name
-    })))),
+    () => catalog.flatMap((section) =>
+      section.groups.flatMap((group) => {
+        // If it's a sub-category with nested groups
+        if (group.isSubCategory && group.groups) {
+          return group.groups.flatMap((nestedGroup) =>
+            nestedGroup.products?.map((product) => ({
+              ...product,
+              category: section.category,
+              subCategory: group.name,
+              groupName: nestedGroup.name
+            })) || []
+          );
+        }
+        // Regular group with products directly
+        return group.products?.map((product) => ({
+          ...product,
+          category: section.category,
+          groupName: group.name
+        })) || [];
+      })
+    ),
     [catalog]
   )
 
@@ -537,30 +500,11 @@ function App() {
 
   const isSubcategoryListView = Boolean(selectedView)
   const isSearchPage = activePage === 'search'
-  const dockActiveItem = cartOpen
-    ? 'cart'
-    : menuOpen
-      ? 'category'
-      : (searchOpen || isSearchPage)
-        ? 'search'
-        : 'home'
 
   useEffect(() => {
     if (!searchOpen) return
     searchInputRef.current?.focus()
   }, [searchOpen])
-
-  useEffect(() => {
-    const mediaQuery = window.matchMedia('(max-width: 767px) and (pointer: coarse)')
-    const updateDockVisibility = () => setShowMobileDock(mediaQuery.matches)
-
-    updateDockVisibility()
-    mediaQuery.addEventListener('change', updateDockVisibility)
-
-    return () => {
-      mediaQuery.removeEventListener('change', updateDockVisibility)
-    }
-  }, [])
 
   useEffect(() => {
     try {
@@ -867,28 +811,35 @@ function App() {
 
                 <div className="bg-slate-800 p-2">
                   {activeGroups.length ? (
-                    activeGroups.map((group, groupIdx) => (
-                      <button
-                        key={group.name}
-                        type="button"
-                        className={`flex w-full items-center justify-between rounded-md px-3 py-2 text-left text-sm transition ${
-                          groupIdx === selectedGroupIndex ? 'bg-error text-white' : 'text-slate-200 hover:bg-slate-700'
-                        }`}
-                        onClick={() => {
-                          setSelectedGroupIndex(groupIdx)
-                          if (activeSectionIndex !== null) {
-                            setSelectedView({ sectionIndex: activeSectionIndex, groupIndex: groupIdx })
-                          }
-                          setMenuOpen(false)
-                          setTimeout(() => {
-                            contentRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
-                          }, 0)
-                        }}
-                      >
-                        <span>{toTitleCase(group.name)}</span>
-                        <span className="text-xs">{group.products.length}</span>
-                      </button>
-                    ))
+                    activeGroups.map((group, groupIdx) => {
+                      const isSubCategory = group.isSubCategory && group.groups;
+                      const itemCount = isSubCategory
+                        ? group.groups.reduce((sum, g) => sum + (g.products?.length || 0), 0)
+                        : group.products?.length || 0;
+
+                      return (
+                        <button
+                          key={group.name}
+                          type="button"
+                          className={`flex w-full items-center justify-between rounded-md px-3 py-2 text-left text-sm transition ${
+                            groupIdx === selectedGroupIndex ? 'bg-error text-white' : 'text-slate-200 hover:bg-slate-700'
+                          }`}
+                          onClick={() => {
+                            setSelectedGroupIndex(groupIdx)
+                            if (activeSectionIndex !== null) {
+                              setSelectedView({ sectionIndex: activeSectionIndex, groupIndex: groupIdx })
+                            }
+                            setMenuOpen(false)
+                            setTimeout(() => {
+                              contentRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+                            }, 0)
+                          }}
+                        >
+                          <span>{toTitleCase(group.name)}</span>
+                          <span className="text-xs">{itemCount}</span>
+                        </button>
+                      );
+                    })
                   ) : (
                     <div className="px-3 py-2 text-sm text-slate-400" />
                   )}
@@ -931,7 +882,99 @@ function App() {
         </div>
       </header>
 
-      <main ref={contentRef} className="relative z-10 mx-auto max-w-6xl space-y-6 px-4 pt-24 pb-24 md:px-6 md:pt-28 md:pb-10">
+      {/* Hero VS Battle */}
+      <div className="relative overflow-hidden pt-20 md:pt-24">
+        <div className="absolute inset-0 bg-gradient-to-b from-primary/10 via-transparent to-transparent" />
+        <div className="mx-auto max-w-4xl px-4">
+          {utilities.length > 0 ? (
+            <>
+              <div className="flex items-center justify-center gap-2 md:gap-4">
+                {utilities.map((store, idx) => (
+                  <div key={store.name} className="relative flex-1 max-w-[80px] md:max-w-[100px]">
+                    <div
+                      className={`
+                        relative flex flex-col items-center justify-center rounded-xl border border-slate-700/50 bg-slate-900/80 p-2 md:p-3
+                        shadow-lg shadow-black/20 transition-all duration-700
+                        ${idx === Math.floor(utilities.length / 2) ? 'z-10 scale-105' : 'z-0'}
+                      `}
+                      style={{
+                        animation: `fadeSlideIn 0.6s ease-out ${idx * 0.1}s both`
+                      }}
+                    >
+                      <div className="absolute inset-0 rounded-xl bg-gradient-to-br from-transparent via-white/5 to-transparent" />
+                      <img
+                        src={store.icon}
+                        alt={store.name}
+                        className="relative h-6 w-auto max-w-[60px] object-contain md:h-8 md:max-w-[70px]"
+                        onError={(e) => {
+                          e.target.style.display = 'none'
+                        }}
+                      />
+                    </div>
+
+                    {idx < utilities.length - 1 && (
+                      <div className="absolute -right-[10px] md:-right-[14px] top-1/2 -translate-y-1/2 z-20">
+                        <div className="flex h-5 w-5 md:h-6 md:w-6 items-center justify-center rounded-full bg-gradient-to-br from-primary to-secondary text-[8px] md:text-[10px] font-black text-white shadow-lg shadow-primary/30 animate-pulse">
+                          VS
+                        </div>
+                      </div>
+                    )}
+                  </div>
+                ))}
+              </div>
+
+              <div className="mt-6 text-center">
+                <h1 className="text-2xl font-black text-base-content md:text-4xl" style={{ animation: 'fadeIn 0.8s ease-out 0.5s both' }}>
+                  <span className="bg-gradient-to-r from-primary via-purple-400 to-secondary bg-clip-text text-transparent">
+                    Compare Prices
+                  </span>
+                  <span className="text-base-content"> across </span>
+                  <span className="bg-gradient-to-r from-secondary via-pink-400 to-primary bg-clip-text text-transparent">
+                    Supershop
+                  </span>
+                </h1>
+                <p className="mt-2 text-sm text-base-content/60 md:text-base" style={{ animation: 'fadeIn 0.8s ease-out 0.7s both' }}>
+                  Find the best deals in Bangladesh
+                </p>
+              </div>
+            </>
+          ) : (
+            /* Loading Skeleton */
+            <div className="flex items-center justify-center gap-2 md:gap-4">
+              {[1, 2, 3].map((_, idx) => (
+                <div
+                  key={idx}
+                  className="flex-1 max-w-[80px] md:max-w-[100px] rounded-xl border border-slate-700/50 bg-slate-900/80 p-2 md:p-3 animate-pulse"
+                  style={{ animationDelay: `${idx * 0.1}s` }}
+                >
+                  <div className="flex flex-col items-center gap-2">
+                    <div className="h-6 w-12 rounded bg-slate-700/50 md:h-8 md:w-14" />
+                  </div>
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
+      </div>
+
+      <style>{`
+        @keyframes fadeSlideIn {
+          from {
+            opacity: 0;
+            transform: translateY(20px) scale(0.9);
+          }
+          to {
+            opacity: 1;
+            transform: translateY(0) scale(1);
+          }
+        }
+        @keyframes fadeIn {
+          from { opacity: 0; }
+          to { opacity: 1; }
+        }
+      `}</style>
+
+      <main ref={contentRef} className="relative z-10 mx-auto max-w-6xl space-y-6 px-4 pt-6 pb-10 md:px-6 md:pt-4">
 
         {searchOpen ? (
           <section className="rounded-xl border border-primary/40 bg-slate-900/90 p-3 shadow-lg sm:p-4">
@@ -996,106 +1039,118 @@ function App() {
               </div>
             </div>
 
-            {section.groups.map((group, groupIndex) => (
-              <div key={group.name} className="space-y-4">
-                <div className="flex items-center justify-between gap-3 px-1">
-                  <h3 className="text-lg font-bold text-base-content sm:text-xl">{toTitleCase(group.name)}</h3>
-                  {!isSubcategoryListView ? (
-                    <button
-                      type="button"
-                      className="btn btn-xs btn-primary"
-                      onClick={() => {
-                        const sectionIndex = catalog.findIndex((item) => item.category === section.category)
-                        if (sectionIndex >= 0) {
-                          setSelectedView({ sectionIndex, groupIndex })
-                          setMenuOpen(false)
-                          setTimeout(() => {
-                            contentRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
-                          }, 0)
-                        }
-                      }}
+            {section.groups.map((group, groupIndex) => {
+              // Handle sub-categories (groups with nested groups)
+              if (group.isSubCategory && group.groups) {
+                return (
+                  <div key={group.name} className="space-y-4">
+                    <div className="flex items-center justify-between gap-3 px-1">
+                      <h3 className="text-lg font-bold text-base-content sm:text-xl">{toTitleCase(group.name)}</h3>
+                    </div>
+
+                    {/* Render nested groups (products within this sub-category) */}
+                    <div className="space-y-4 pl-4">
+                      {group.groups.map((nestedGroup, nestedIndex) => (
+                        <div key={nestedGroup.name} className="space-y-2">
+                          <div className="flex items-center justify-between gap-3">
+                            <h4 className="text-base font-semibold text-base-content/90">{toTitleCase(nestedGroup.name)}</h4>
+                            {!isSubcategoryListView && nestedGroup.products?.length ? (
+                              <button
+                                type="button"
+                                className="btn btn-xs btn-primary"
+                                onClick={() => {
+                                  const sectionIndex = catalog.findIndex((item) => item.category === section.category)
+                                  if (sectionIndex >= 0) {
+                                    setSelectedView({ sectionIndex, groupIndex, nestedIndex })
+                                    setMenuOpen(false)
+                                    setTimeout(() => {
+                                      contentRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+                                    }, 0)
+                                  }
+                                }}
+                              >
+                                More
+                              </button>
+                            ) : null}
+                          </div>
+                          {isSubcategoryListView ? (
+                            <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
+                              {nestedGroup.products?.map((product, productIndex) => (
+                                <ProductCard key={`${nestedGroup.name}-${productIndex}`} product={product} onClick={handleProductClick} />
+                              ))}
+                            </div>
+                          ) : (
+                            <div
+                              className="flex snap-x snap-mandatory gap-3 overflow-x-auto pb-2 [scrollbar-width:none] [-ms-overflow-style:none] [&::-webkit-scrollbar]:hidden"
+                              onScroll={(event) => handleGroupScroll(section.category, nestedGroup.name, nestedGroup.products?.length || 0, event)}
+                            >
+                              {nestedGroup.products?.slice(0, getVisibleCount(section.category, nestedGroup.name)).map((product, productIndex) => (
+                                <div key={`${nestedGroup.name}-${productIndex}`} className="w-28 sm:w-32 md:w-40 lg:w-44 flex-shrink-0 snap-start">
+                                  <ProductCard product={product} onClick={handleProductClick} />
+                                </div>
+                              ))}
+                            </div>
+                          )}
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                );
+              }
+
+              // Handle regular groups (groups with products directly)
+              return (
+                <div key={group.name} className="space-y-4">
+                  <div className="flex items-center justify-between gap-3 px-1">
+                    <h3 className="text-lg font-bold text-base-content sm:text-xl">{toTitleCase(group.name)}</h3>
+                    {!isSubcategoryListView ? (
+                      <button
+                        type="button"
+                        className="btn btn-xs btn-primary"
+                        onClick={() => {
+                          const sectionIndex = catalog.findIndex((item) => item.category === section.category)
+                          if (sectionIndex >= 0) {
+                            setSelectedView({ sectionIndex, groupIndex })
+                            setMenuOpen(false)
+                            setTimeout(() => {
+                              contentRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+                            }, 0)
+                          }
+                        }}
+                      >
+                        More
+                      </button>
+                    ) : null}
+                  </div>
+                  {isSubcategoryListView ? (
+                    <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
+                      {group.products.map((product, productIndex) => (
+                        <ProductCard key={`${group.name}-${productIndex}`} product={product} onClick={handleProductClick} />
+                      ))}
+                    </div>
+                  ) : (
+                    <div
+                      className="flex snap-x snap-mandatory gap-3 overflow-x-auto pb-2 [scrollbar-width:none] [-ms-overflow-style:none] [&::-webkit-scrollbar]:hidden"
+                      onScroll={(event) => handleGroupScroll(section.category, group.name, group.products.length, event)}
                     >
-                      More
-                    </button>
-                  ) : null}
+                      {group.products.slice(0, getVisibleCount(section.category, group.name)).map((product, productIndex) => (
+                        <div key={`${group.name}-${productIndex}`} className="w-28 sm:w-32 md:w-40 lg:w-44 flex-shrink-0 snap-start">
+                          <ProductCard product={product} onClick={handleProductClick} />
+                        </div>
+                      ))}
+                    </div>
+                  )}
                 </div>
-                {isSubcategoryListView ? (
-                  <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
-                    {group.products.map((product, productIndex) => (
-                      <ProductCard key={`${group.name}-${productIndex}`} product={product} onClick={handleProductClick} />
-                    ))}
-                  </div>
-                ) : (
-                  <div
-                    className="flex snap-x snap-mandatory gap-3 overflow-x-auto pb-2 [scrollbar-width:none] [-ms-overflow-style:none] [&::-webkit-scrollbar]:hidden"
-                    onScroll={(event) => handleGroupScroll(section.category, group.name, group.products.length, event)}
-                  >
-                    {group.products.slice(0, getVisibleCount(section.category, group.name)).map((product, productIndex) => (
-                      <div key={`${group.name}-${productIndex}`} className="w-28 sm:w-32 md:w-40 lg:w-44 flex-shrink-0 snap-start">
-                        <ProductCard product={product} onClick={handleProductClick} />
-                      </div>
-                    ))}
-                  </div>
-                )}
-              </div>
-            ))}
+              );
+            })}
           </section>
         )) : null}
       </main>
 
-      {/* Footer */}
-      <footer className="relative z-10 border-t border-slate-700 bg-gradient-to-b from-slate-900 to-slate-950 py-8">
-        <div className="mx-auto max-w-6xl px-4 md:px-6">
-          <div className="rounded-2xl border border-slate-700/70 bg-slate-900/70 p-4 sm:p-6">
-            <div className="flex flex-col gap-6 sm:flex-row sm:items-center sm:justify-between">
-              <div className="space-y-1">
-                <h4 className="text-lg font-black text-base-content">সেরা দাম</h4>
-                <p className="text-sm text-base-content/70">Compare smarter. Buy cheaper.</p>
-              </div>
-
-              <div className="grid grid-cols-3 gap-2 text-center sm:max-w-sm sm:flex-1">
-                <div className="rounded-lg border border-slate-700 bg-slate-800/70 p-2">
-                  <p className="text-[10px] uppercase tracking-wide text-base-content/60">Stores</p>
-                  <p className="text-sm font-bold text-primary">3+</p>
-                </div>
-                <div className="rounded-lg border border-slate-700 bg-slate-800/70 p-2">
-                  <p className="text-[10px] uppercase tracking-wide text-base-content/60">Live Compare</p>
-                  <p className="text-sm font-bold text-secondary">Yes</p>
-                </div>
-                <div className="rounded-lg border border-slate-700 bg-slate-800/70 p-2">
-                  <p className="text-[10px] uppercase tracking-wide text-base-content/60">Savings</p>
-                  <p className="text-sm font-bold text-success">Tracked</p>
-                </div>
-              </div>
-            </div>
-
-            <div className="mt-5 flex flex-col gap-2 border-t border-slate-700 pt-4 text-xs text-base-content/60 sm:flex-row sm:items-center sm:justify-between">
-              <p>© 2026 সেরা দাম. All rights reserved.</p>
-              <p>Built for smarter grocery decisions.</p>
-            </div>
-          </div>
-        </div>
+      {/* Simple Footer */}
+      <footer className="relative z-10 border-t border-slate-700 bg-slate-900 py-4 text-center text-xs text-base-content/60">
+        <p>© 2026 সেরা দাম — Built for smarter grocery decisions.</p>
       </footer>
-
-      {/* Dock Navigation */}
-      {showMobileDock ? (
-        <DockNavigation
-          onHome={handleGoHome}
-          activeItem={dockActiveItem}
-          cartCount={cartItems.length}
-          onOpenCategory={() => {
-            setActivePage('home')
-            setSearchOpen(false)
-            setMenuOpen(true)
-            setSelectedView(null)
-          }}
-          onOpenCart={() => setCartOpen(true)}
-          onOpenSearch={() => {
-            setSearchOpen(true)
-            setMenuOpen(false)
-          }}
-        />
-      ) : null}
 
       <CartDrawer
         open={cartOpen}

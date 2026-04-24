@@ -1,0 +1,102 @@
+[
+  {
+    "productName": "Nescafe Original Milk Coffee Drink 240ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/668fd5d3067663f5e6472f2b_Nescafe-Original-Milk-Coffee-Drink-240ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6680e94c7c6aae2161566188",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Nescafe Mocha Low Fat Milk Coffee Drink 240ml",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/668fd5d4067663f5e6472f33_Nescafe-Mocha-Low-Fat-Milk-Coffee-Drink-240ml_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "6680e94d7c6aae216156618d",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Nescafe 3in1 Iced Frappe Coffee 30gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa94cd115075f231ec4f0d_Nescafe-3-in-1-Iced-Frappe-Coffee-30gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed574029080802d038dd",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Nescafe 3in1 Hazelnut Latte 25(±)3gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa94c3115075f231ec4e8d_Nescafe-3-in-1-Hazelnut-Latte-25gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed544029080802d0387a",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Nescafe Creamy Latte 18gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa94ba115075f231ec4e25_Nescafe-Creamy-Latte-18gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec59ae4f247aa6ee6de5",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Nescafe 3 in 1 Coffee Mix 14gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9399115075f231ec4bc6_Nescafe-3-in-1-Coffee-Mix-14gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efec4cae4f247aa6ee6c23",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "AMA 3in1 Coffee 10X14(±)1gm Brazil",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa94cc115075f231ec4ef9_AMA-3in1-Coffee-10X15gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed574029080802d038cb",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "AMA Classic Coffee 10X1gm",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa94cb115075f231ec4ef5_AMA-Classic-Coffee-10X1gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed574029080802d038c8",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "AMA 3in1 Brazilian Coffee 14(±)1gm Brazil",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa94c9115075f231ec4ed5_AMA-3in1-Brazilian-Coffee-15gm-Brazil_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65efed564029080802d038b0",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "RD Coffee Milk Drinks 200ml (Buy3 Get1 Free)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/default-product.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "69c38540d96c7c8a3e69192c",
+      "multiplyProductPrice": 1
+    }
+  }
+]

@@ -9,14 +9,14 @@
       "multiplyProductPrice": 12
     },
     "chaldal": {
-    "chaldalCategories": "61",
-    "chaldalObjectID": "4248",
-    "multiplyProductPrice": 1
-  },
-  "meenabazar": {
-    "meenabazarProductId": "15988",
-    "multiplyProductPrice": 12
-  }
+      "chaldalCategories": "61",
+      "chaldalObjectID": "4248",
+      "multiplyProductPrice": 1
+    },
+    "meenabazar": {
+      "meenabazarProductId": "15988",
+      "multiplyProductPrice": 12
+    }
   },
   {
     "productName": "Purnava Omega 3 enriched Egg (12Pcs Pack)",

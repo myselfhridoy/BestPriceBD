@@ -94,10 +94,22 @@ function groupCatalogProducts(products) {
 			sectionMap.set(product.category, section);
 		}
 
-		let group = section.groups.find((item) => item.name === product.groupName);
+		// If there's a subCategory, create/find a parent group for it
+		let parentGroup = null;
+		if (product.subCategory) {
+			parentGroup = section.groups.find((item) => item.name === product.subCategory && item.isSubCategory);
+			if (!parentGroup) {
+				parentGroup = { name: product.subCategory, isSubCategory: true, groups: [] };
+				section.groups.push(parentGroup);
+			}
+		}
+
+		// Create/find the actual product group
+		const targetGroupArray = parentGroup ? parentGroup.groups : section.groups;
+		let group = targetGroupArray.find((item) => item.name === product.groupName);
 		if (!group) {
 			group = { name: product.groupName, products: [] };
-			section.groups.push(group);
+			targetGroupArray.push(group);
 		}
 
 		group.products.push({
@@ -123,12 +135,19 @@ async function readCatalogSections(options = {}) {
 		const routeRelativePath = relativePath.replace(/^products\//, "").replace(/\.json$/i, "");
 		const pathParts = routeRelativePath.split("/");
 
-		const fileName = pathParts[pathParts.length - 1];
 		const categoryRaw = pathParts[0] || "products";
-		const groupRaw = pathParts.length > 2 ? pathParts[pathParts.length - 2] : fileName;
-
 		const category = toTitleCaseLabel(categoryRaw);
-		const groupName = toTitleCaseLabel(groupRaw);
+
+		// Extract sub-category if path has 3+ levels
+		let subCategory = null;
+		if (pathParts.length > 2) {
+			const subCategoryRaw = pathParts[1];
+			subCategory = toTitleCaseLabel(subCategoryRaw);
+		}
+
+		// Extract group name from the last path part (file name)
+		const fileName = pathParts[pathParts.length - 1];
+		const groupName = toTitleCaseLabel(fileName);
 
 		const items = await readJsonFile(`./${relativePath}`);
 		if (!Array.isArray(items)) {
@@ -143,6 +162,7 @@ async function readCatalogSections(options = {}) {
 				productImage: item.productImage,
 				route: `/products/details/${routeRelativePath}?id=${index + 1}`,
 				category,
+				subCategory,
 				groupName
 			});
 		}
