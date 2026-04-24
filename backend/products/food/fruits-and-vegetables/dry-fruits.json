@@ -1,0 +1,112 @@
+[
+  {
+    "productName": "Khezur (Dates) Ajwa Premium 500gm (Pack)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9769d61902ef2307cdd4_Dates-Ajwa-Premium-Pack_1.webp",
+    "quantity": 1,
+    "unit": "Unit",
+    "shwapno": {
+      "shwapnoProductId": "65eff72e4029080802d13891",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Khezur (Dates) Maryam Premium 500gm (Pack)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/67d7c79863084aa5c2f0ec49_Khezur-Dates-Maryam-Premium-Pack-500gm_1.webp",
+    "quantity": 1,
+    "unit": "Unit",
+    "shwapno": {
+      "shwapnoProductId": "65eff72e4029080802d13894",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Khezur (Dates) Kalmi Safawi Premium 500gm (Pack)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/67d7c79d63084aa5c2f0ec51_Khezur-Dates-Kalmi-Safawi-Premium-500gm-Pack_1.webp",
+    "quantity": 1,
+    "unit": "Unit",
+    "shwapno": {
+      "shwapnoProductId": "65eff72e4029080802d13897",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Khezur (Dates) Crown Dabbas 1kg (Pack)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/677d5d6069088fff0aef7386_Dates-Crown-Dabbas-1kg-pack_1.webp",
+    "quantity": 1,
+    "unit": "Unit",
+    "shwapno": {
+      "shwapnoProductId": "677b6c7a3102814b3747b7c8",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Khezur (Dates) Medjool 500gm (Pack)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69b117872860a3b504ae6593_Khezur-Dates-Medjool-500gm-Pack_1.webp",
+    "quantity": 1,
+    "unit": "Unit",
+    "shwapno": {
+      "shwapnoProductId": "68bd3a1c8c7e5b3a9bd6c5dd",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Tetul (Tamarind Whole)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66652487a44f60e9a9a6311e_Tetul-Tamarind-Whole_1.webp",
+    "quantity": 1,
+    "unit": "",
+    "shwapno": {
+      "shwapnoProductId": "696e01fa310037bf287fe1c3",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Khezur (Dates) Iranian Maryam Loose",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9756d61902ef2307bd4c_Dates-Iranian-Maryam-Loose_1.webp",
+    "quantity": 1,
+    "unit": "",
+    "shwapno": {
+      "shwapnoProductId": "696e01fb310037bf287fe382",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Khezur (Dates) Saudi Arab Ajwah Loose",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9764d61902ef2307c98a_Ajwah-Dates-Loose_1.webp",
+    "quantity": 1,
+    "unit": "",
+    "shwapno": {
+      "shwapnoProductId": "696e020e310037bf287fff46",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Khezur (Dates) Egypt Mudjoel Loose",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9765d61902ef2307ca25_Mudjoel-Dates-Loose_1.webp",
+    "quantity": 1,
+    "unit": "",
+    "shwapno": {
+      "shwapnoProductId": "696e020f310037bf287fffeb",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Khezur (Dates) Dubai Dabbas Loose",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa9764d61902ef2307c9d2_Dates-Khezur-Dabbas-Loose_1.webp",
+    "quantity": 1,
+    "unit": "",
+    "shwapno": {
+      "shwapnoProductId": "696e0237310037bf28806e7b",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Khezur (Dates) Kalmi Safwai Loose Kg",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/67bf3140cb51ea3b6c266dab_Kalmi-Safwai-Loose-Kg_1.webp",
+    "quantity": 1,
+    "unit": "",
+    "shwapno": {
+      "shwapnoProductId": "696e0273310037bf288109f1",
+      "multiplyProductPrice": 1
+    }
+  }
+]

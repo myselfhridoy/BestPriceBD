@@ -1,14 +1,14 @@
 [
- {
-    "id": 1,
-    "productName": "Egg Loose",
+  {
+    "productName": "Egg Loose (12 pcs)",
     "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6605329955503b55855d83ae_Egg-Loose_1.webp",
-    "unit": "12 pcs",
+    "quantity": 1,
+    "unit": "Piece",
     "shwapno": {
-        "shwapnoProductId": "65effb7bae4f247aa6eeae01",
-        "multiplyProductPrice": 12
-  },
-  "chaldal": {
+      "shwapnoProductId": "65effb7bae4f247aa6eeae01",
+      "multiplyProductPrice": 12
+    },
+    "chaldal": {
     "chaldalCategories": "61",
     "chaldalObjectID": "4248",
     "multiplyProductPrice": 1
@@ -16,12 +16,36 @@
   "meenabazar": {
     "meenabazarProductId": "15988",
     "multiplyProductPrice": 12
-  },
-  "createdAt": {
-    "$date": "2026-04-21T19:55:28.013Z"
-  },
-  "updatedAt": {
-    "$date": "2026-04-21T19:55:28.013Z"
   }
- }
+  },
+  {
+    "productName": "Purnava Omega 3 enriched Egg (12Pcs Pack)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66377495211595380a8f1b79_Purnava-Omega-3-enriched-Egg12-Pcs-Pack_1.webp",
+    "quantity": 1,
+    "unit": "Pack",
+    "shwapno": {
+      "shwapnoProductId": "6637664e694b3e503625eff5",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Purnava Vitamin-E Enriched Egg (12Pcs Pack)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66377496211595380a8f1b7d_Purnava-Vitamin-E-Enriched-Egg-12-Pcs-Pack_1.webp",
+    "quantity": 1,
+    "unit": "Pack",
+    "shwapno": {
+      "shwapnoProductId": "6637664e694b3e503625effa",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Paragon Brown Egg 12Pcs (12Pcs Pack)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66377496211595380a8f1b81_Paragon-Brown-Egg-12-Pcs-12-Pcs-Pack_1.webp",
+    "quantity": 1,
+    "unit": "Pack",
+    "shwapno": {
+      "shwapnoProductId": "6637664e694b3e503625eff0",
+      "multiplyProductPrice": 1
+    }
+  }
 ]

@@ -1,0 +1,62 @@
+[
+  {
+    "productName": "Rupchanda (Pomfret) Fresh Local Captured (8-10 Pcs/kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6665248aa44f60e9a9a63142_Rupchanda-Medium_1.webp",
+    "quantity": 1,
+    "unit": "",
+    "shwapno": {
+      "shwapnoProductId": "696e021e310037bf288029f1",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Sea Poa Fresh Local Captured",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa98d9115075f231ecdb0d_Poa-Captured-P_1.webp",
+    "quantity": 1,
+    "unit": "",
+    "shwapno": {
+      "shwapnoProductId": "696e022b310037bf288057b2",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Koral Fresh Local Captured (1.5-2.499 kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/660532a155503b55855d83f6_Koral-Medium_1.webp",
+    "quantity": 1,
+    "unit": "",
+    "shwapno": {
+      "shwapnoProductId": "696e0241310037bf28808536",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Rupchanda (Promfret) Fresh Local Captured (3-4 Pcs/kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6665248aa44f60e9a9a6314a_Rupchanda-Large_1.webp",
+    "quantity": 1,
+    "unit": "",
+    "shwapno": {
+      "shwapnoProductId": "696e0244310037bf288087fb",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Chub Mackerel Fresh Local Captured",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6790ae0e976639d257254c14_Chub-Mackerel-frs-loc-CTG-cap-RC_1.webp",
+    "quantity": 1,
+    "unit": "",
+    "shwapno": {
+      "shwapnoProductId": "696e026a310037bf2880ef65",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Rupchanda (Promfret) Fresh Local Captured (5-6 Pcs/kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6790ae1f976639d25725552a_Promfret-frs-loc-CTG-cap-RC-5-6-pcskg_1.webp",
+    "quantity": 1,
+    "unit": "",
+    "shwapno": {
+      "shwapnoProductId": "696e026c310037bf2880f285",
+      "multiplyProductPrice": 1
+    }
+  }
+]

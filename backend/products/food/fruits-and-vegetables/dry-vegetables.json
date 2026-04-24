@@ -1,0 +1,62 @@
+[
+  {
+    "productName": "Ada (Ginger) Local Loose Hybrid Premium Kg",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/660ba5852330c63d44c03a56_Ginger-Ada-Local-Hybrid_1.webp",
+    "quantity": 1,
+    "unit": "",
+    "shwapno": {
+      "shwapnoProductId": "696e01f6310037bf287fcd5a",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Roshun (Garlic) Deshi Loose Premium Kg",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa94f3115075f231ec5e34_Ginger-Ada-Local-Hybrid_1.webp",
+    "quantity": 1,
+    "unit": "",
+    "shwapno": {
+      "shwapnoProductId": "696e01f8310037bf287fd053",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Roshun Chinese Loose Kg",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa94f8115075f231ec61fb_Roshun-Chinese-Loose-P_1.webp",
+    "quantity": 1,
+    "unit": "",
+    "shwapno": {
+      "shwapnoProductId": "696e01f8310037bf287fdceb",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Ginger (Ada) Imported",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66589b07ce597a2258f62b3a_Ginger-Ada-Imported_1.webp",
+    "quantity": 1,
+    "unit": "",
+    "shwapno": {
+      "shwapnoProductId": "696e0252310037bf2880ab81",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "New Alu Loose kg",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/693804d5a076408e0565a0a8_New-Alu-Loose-kg_1.webp",
+    "quantity": 1,
+    "unit": "",
+    "shwapno": {
+      "shwapnoProductId": "696e027a310037bf2881247d",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Piyaj Local Loose (P) kg",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69427f2370440128e6b5c1e7_Piyaj-Local-Loose-P-kg_1.webp",
+    "quantity": 1,
+    "unit": "",
+    "shwapno": {
+      "shwapnoProductId": "696e027b310037bf2881257d",
+      "multiplyProductPrice": 1
+    }
+  }
+]

@@ -80,9 +80,44 @@ async function listProductMappingFiles(directoryPath, prefixPath) {
 	return discoveredFiles;
 }
 
-async function readCatalogSections() {
-	const mappingFiles = await listProductMappingFiles("./products", "products");
+function parsePositiveInteger(value, fallback) {
+	const parsedValue = Number.parseInt(value, 10);
+	return Number.isInteger(parsedValue) && parsedValue > 0 ? parsedValue : fallback;
+}
+
+function groupCatalogProducts(products) {
 	const sectionMap = new Map();
+
+	for (const product of products) {
+		const section = sectionMap.get(product.category) || { category: product.category, groups: [] };
+		if (!sectionMap.has(product.category)) {
+			sectionMap.set(product.category, section);
+		}
+
+		let group = section.groups.find((item) => item.name === product.groupName);
+		if (!group) {
+			group = { name: product.groupName, products: [] };
+			section.groups.push(group);
+		}
+
+		group.products.push({
+			id: product.id,
+			name: product.name,
+			unit: product.unit,
+			productImage: product.productImage,
+			route: product.route
+		});
+	}
+
+	return [...sectionMap.values()];
+}
+
+async function readCatalogSections(options = {}) {
+	const shouldPaginate = options.paginate === true;
+	const page = parsePositiveInteger(options.page, 1);
+	const limit = parsePositiveInteger(options.limit, 24);
+	const mappingFiles = await listProductMappingFiles("./products", "products");
+	const allProducts = [];
 
 	for (const relativePath of mappingFiles) {
 		const routeRelativePath = relativePath.replace(/^products\//, "").replace(/\.json$/i, "");
@@ -95,38 +130,41 @@ async function readCatalogSections() {
 		const category = toTitleCaseLabel(categoryRaw);
 		const groupName = toTitleCaseLabel(groupRaw);
 
-		const section = sectionMap.get(category) || { category, groups: [] };
-		if (!sectionMap.has(category)) {
-			sectionMap.set(category, section);
-		}
-
-		let group = section.groups.find((item) => item.name === groupName);
-		if (!group) {
-			group = { name: groupName, products: [] };
-			section.groups.push(group);
-		}
-
 		const items = await readJsonFile(`./${relativePath}`);
 		if (!Array.isArray(items)) {
 			continue;
 		}
 
-		for (const item of items) {
-			if (item?.id === undefined || item?.id === null) {
-				continue;
-			}
-
-			group.products.push({
-				id: item.id,
+		for (const [index, item] of items.entries()) {
+			allProducts.push({
+				id: index + 1,
 				name: item.productName,
 				unit: item.unit,
 				productImage: item.productImage,
-				route: `/products/details/${routeRelativePath}?id=${item.id}`
+				route: `/products/details/${routeRelativePath}?id=${index + 1}`,
+				category,
+				groupName
 			});
 		}
 	}
 
-	return [...sectionMap.values()];
+	if (!shouldPaginate) {
+		return groupCatalogProducts(allProducts);
+	}
+
+	const totalProducts = allProducts.length;
+	const totalPages = Math.max(1, Math.ceil(totalProducts / limit));
+	const safePage = Math.min(Math.max(page, 1), totalPages);
+	const startIndex = (safePage - 1) * limit;
+	const paginatedProducts = allProducts.slice(startIndex, startIndex + limit);
+
+	return {
+		page: safePage,
+		limit,
+		totalProducts,
+		totalPages,
+		sections: groupCatalogProducts(paginatedProducts)
+	};
 }
 
 function toNumber(value) {
@@ -218,7 +256,7 @@ function getBestChoice(products) {
 	const areAllPricesSame = comparableProducts.every((item) => Number(item.data.priceValue) === firstPrice);
 
 	if (areAllPricesSame) {
-		return "";
+		return "Pick Nearest";
 	}
 
 	return comparableProducts[0].source;
@@ -291,7 +329,10 @@ const server = http.createServer(async (request, response) => {
 
 	if (url.pathname === "/api/catalog") {
 		try {
-			const catalog = await readCatalogSections();
+			const page = url.searchParams.get("page");
+			const limit = url.searchParams.get("limit");
+			const shouldPaginate = page !== null || limit !== null;
+			const catalog = await readCatalogSections({ page, limit, paginate: shouldPaginate });
 			sendJson(response, 200, catalog);
 		} catch (error) {
 			sendJson(response, 500, {
@@ -352,7 +393,9 @@ const server = http.createServer(async (request, response) => {
 
 		try {
 			const configList = await readProductMappingByRoute(url.pathname);
-			const config = configList.find((item) => String(item?.id) === idParam);
+			const productIndex = Number.parseInt(idParam, 10);
+			const arrayIndex = Number.isInteger(productIndex) && productIndex > 0 ? productIndex - 1 : -1;
+			const config = arrayIndex >= 0 ? configList[arrayIndex] : undefined;
 
 			if (!config) {
 				sendJson(response, 404, {
@@ -449,7 +492,7 @@ const server = http.createServer(async (request, response) => {
 			const bestChoice = getBestChoice(sortedProducts);
 
 			sendJson(response, 200, {
-				id: config.id,
+				id: productIndex,
 				productName: config.productName,
 				unit: config.unit,
 				productImage: config.productImage,
@@ -485,7 +528,9 @@ const server = http.createServer(async (request, response) => {
 
 		try {
 			const configList = await readProductMappingByRoute(url.pathname);
-			const config = configList.find((item) => String(item?.id) === idParam);
+			const productIndex = Number.parseInt(idParam, 10);
+			const arrayIndex = Number.isInteger(productIndex) && productIndex > 0 ? productIndex - 1 : -1;
+			const config = arrayIndex >= 0 ? configList[arrayIndex] : undefined;
 
 			if (!config) {
 				sendJson(response, 404, {
@@ -567,7 +612,7 @@ const server = http.createServer(async (request, response) => {
 			}
 
 			sendJson(response, 200, {
-				id: config.id,
+				id: productIndex,
 				productName: config.productName,
 				unit: config.unit,
 				products

@@ -1,0 +1,512 @@
+[
+  {
+    "productName": "Hilsha Fresh Local Captured (500-599 gm)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/664ae49669554c8e502f52d5_Hilsha-500-599-gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "664adb7f405241403280d576",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Hilsha Fresh Local Captured (400-499 gm)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6790ae11976639d257254e29_Hilsha-400gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "65effb7bae4f247aa6eeae07",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Hilsha Fresh Local Captured (300-399 gm)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/66fe7329f44f7af4a52823b8_Hilsha-300-390gm_1.webp",
+    "quantity": 1,
+    "unit": "Piece",
+    "shwapno": {
+      "shwapnoProductId": "66fe722f242288ae8d3396c8",
+      "multiplyProductPrice": 1
+    }
+  },
+  {
+    "productName": "Golda Fresh Local Cultured (30-40 Pcs/kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/69072a792728d1e2d64338ae_Golda-Fresh-Local-Cultured-30-40-Pcskg_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e021a310037bf28801f66",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Bata Fresh Local Cultured (18-25 Pcs/kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa98d3115075f231ecda7d_Bata-Captured-Medium-P_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e021f310037bf28802b14",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Bagda Chingri Fresh Local Cultured (55-65 Pcs/kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa98d6115075f231ecdacd_Bagda-Chingri-Medium_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0222310037bf28803e53",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Baila Fresh Local Captured (10-15 Pcs/kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa98d7115075f231ecdad5_Baila-Medium_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0223310037bf28803f60",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Boal Fresh Local Captured (1.2 -2.499 kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6790ae18976639d25725509e_Boal-Medium_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0224310037bf28804839",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Golda Fresh Local Cultured (10-14 Pcs/kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/660532a055503b55855d83ee_Golda-Premium_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0226310037bf28804d4e",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Gulsha Fresh Local Cultured (55-65 Pcs/kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa98d7115075f231ecdae5_Gulsha-Medium_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0226310037bf28804f1e",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Horina Chingri Fresh Local Cultured",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa98d8115075f231ecdaf8_Horina-Chingri-Captured-Medium-P_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0228310037bf2880516a",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Kachki Fresh Local Captured",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa98d8115075f231ecdafd_Kachki-Captured-P_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0229310037bf2880520e",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Meni Fresh Local Captured",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6790ae1d976639d25725543d_Meni-Captured-P_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e022a310037bf2880556c",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Puti Fresh Local Cultured",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa98da115075f231ecdb11_Puti-Captured-P_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e022b310037bf28805890",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Sarputi Fresh Local Cultured (4-5 Pcs/kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa98da115075f231ecdb15_Sarputi_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e022c310037bf288058de",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Tatkini Fresh Local Cultured",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa98db115075f231ecdb1d_Tatkini-Captured-Medium-P_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e022e310037bf28805b79",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Koi Fish Process Cultured (10-12 Pcs/kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa98db115075f231ecdb25_Koi-Fish-Process_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0230310037bf28805f4a",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Tengra Fresh Local Captured",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa98dc115075f231ecdb29_Tengra-Deshi_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0231310037bf288061e8",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Pabda Fresh Local Cultured (30-40 Pcs/kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/65fa98dc115075f231ecdb2d_Pabda-Medium_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0232310037bf2880662e",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Deshi Mix Fresh Local Captured",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6605329855503b55855d83aa_Deshi-Mix_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0232310037bf28806721",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Pabda Fresh Local Cultured (18-25 Pcs/kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6605329b55503b55855d83c2_Pabda-Premium_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0234310037bf28806895",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Rui Fresh Local Cultured (2-2.99 kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/668d1a306465c458a3e0fc41_Rui-Deshi-P_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0239310037bf288075c2",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Carpu Fresh Local Cultured",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/68cedfa25c124aea13e1c475_Carpu-Cultured-Medium-Premium_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e023e310037bf28807ee2",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Faisha Fresh Local Captured (25-30 Pcs/kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6790ae1a976639d2572551a9_Faisha-Captured-P_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e023f310037bf28807f61",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Katla Fresh Local Cultured (2-2.999 kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/668d1a326465c458a3e0fc72_Katla-Medium_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0240310037bf288083cd",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Koral Fresh Local Captured (500-899 kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/660532a155503b55855d83fa_Koral-Small_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0241310037bf288086c9",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Mola Fresh Local Captured",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6605329555503b55855d8386_Mola-Captured-P_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0242310037bf2880876c",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Pangas Fresh Local Cultured (1.5-1.999 kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/668d1a326465c458a3e0fd94_Pangas-Cultured-Medium-Premium_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0243310037bf28808783",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Silver Carp Fresh Local Cultured (Medium)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6605329655503b55855d8392_Silver-Carp-Cultured-Medium-P_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0244310037bf288088d0",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Telapiya Fresh Local Cultured 400gm+",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6605329655503b55855d8396_Telapiya-Big_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0245310037bf28808ac7",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Batashi Fresh Local Captured",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6790ae17976639d257255027_Batashi-frs-loc-vai-cap-RC_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0264310037bf2880d942",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Baila Gura Fresh Local Captured",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6790ae10976639d257254d4b_Baila-Gura-frs-loc-khu-cap-RC_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0264310037bf2880ddf5",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Poa Fresh Local Captured",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6790ae1e976639d257255454_Poa-frs-loc-brs-cap-RC_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0265310037bf2880de78",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Telapiya Fresh Local Cultured 200gm+",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6790ae20976639d257255675_Telapiya-frs-loc-mym-cul-RC-4-5-pcskg_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0266310037bf2880decf",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Magur Cultured Processed (8-10 Pcs/kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/691aed0fa0064ef7a1c9894e_Magur-Cultured-Processed-8-10-Pcskg_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0267310037bf2880dfc0",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Pabda Processed (18-25 Pcs/kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6790ae13976639d257254ebb_Pabda-Processed-18-25pckg_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0267310037bf2880e6be",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Sarputi Cultured Processed Kg",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6790ae12976639d257254e35_Sarputi-Cul-Process-kg_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0268310037bf2880e8e6",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Shing Cultured Processed (15-18 Pcs/kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6790ae16976639d257254ff3_Shing-Cul-Processed-15-18Pcskg_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0269310037bf2880ebc2",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Tatkini Processed (15-20 Pcs/kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6790ae13976639d257254e72_Tatkini-Process-15-20pcskg_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e026a310037bf2880ec69",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Ayer Fresh Local Captured (1-1.999 kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6790ae17976639d25725500f_Ayer-frs-loc-vai-cap-RC-1-to-1-999-kg_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e026d310037bf2880f39b",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Rui Fresh Local Cultured (1-1.499 kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6790ae0b976639d257254971_Rui-frs-loc-raj-cul-RC-1-to-1-499-kg_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e026e310037bf2880fd7a",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Rui Fresh Local Cultured (3-3.99 kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/thumbs/6790ae0d976639d257254a1f_Rui-frs-loc-raj-cul-RC-3-to-3-99-kg_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e026f310037bf2880ffd9",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Katla Fresh Local Cultured (3-4.999 kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/68c7b9db951479beed1b176b_Katla-frs-loc-raj-cul-RC-3-4-999-kg_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e027b310037bf28812640",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Katla Fresh Local Cultured (5-6.999 kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/68c7b9de951479beed1b194e_Katla-frs-loc-raj-cul-RC-5-6-999-kg_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e027c310037bf28812797",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Katla Fresh Local Cultured (7-9.999 kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/68c7b9e0951479beed1b1b88_Katla-frs-loc-raj-cul-RC-7-9-999-kg_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e027d310037bf2881295e",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Rui Fresh Local Cultured (1.5-1.99 kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/68c7b9ea951479beed1b1c04_Rui-frs-loc-raj-cul-RC-1-5-1-99-kg_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0282310037bf288134df",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Rui Fresh Local Cultured (5-6.99 kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/68c7b9e6951479beed1b1bce_Rui-frs-loc-raj-cul-RC-5-6-99-kg_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0282310037bf288135a0",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Pangas Fresh Local Cultured 2kg+",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/68c7b9d7951479beed1b172a_Pangas-frs-loc-mym-cul-PC-2kg_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0284310037bf28814103",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Pangas Fresh Local Cultured 5kg+",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/68c7b9e8951479beed1b1be0_Pangas-frs-loc-mym-cul-PC-5kg_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0285310037bf288142fe",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Koral Fresh Local Captured (4-6.999 kg)",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/68c7b9e2951479beed1b1baa_Koral-frs-loc-sat-cap-RC-4-6-999-kg_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0285310037bf288144d0",
+      "multiplyProductPrice": 1000
+    }
+  },
+  {
+    "productName": "Black Curp Fresh Local Cultured 5kg+",
+    "productImage": "https://d2t8nl1y0ie1km.cloudfront.net/images/68c7b9e4951479beed1b1bba_Black-Curp-frs-loc-raj-cul-RC-5kg_1.webp",
+    "quantity": 1,
+    "unit": "Kg",
+    "shwapno": {
+      "shwapnoProductId": "696e0287310037bf288145a3",
+      "multiplyProductPrice": 1000
+    }
+  }
+]
